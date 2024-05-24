@@ -1,0 +1,17 @@
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Prenstation.deps.json
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Prenstation.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Prenstation.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.csproj.AssemblyReference.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.AssemblyInfoInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.AssemblyInfo.cs
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.csproj.CoreCompileInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Prenstation.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMuhasebeServer.Prenstation.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Prenstation.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\obj\Debug\net8.0\OnlineMu.B14C45A5.Up2Date
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Prenstation\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.pdb

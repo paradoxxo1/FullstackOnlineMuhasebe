@@ -1,0 +1,15 @@
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.deps.json
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.AssemblyInfoInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.AssemblyInfo.cs
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.csproj.CoreCompileInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.csproj.AssemblyReference.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMu.DADEA74E.Up2Date

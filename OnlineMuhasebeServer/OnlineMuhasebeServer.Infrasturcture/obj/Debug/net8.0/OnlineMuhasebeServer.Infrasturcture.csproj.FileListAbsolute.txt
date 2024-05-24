@@ -1,0 +1,11 @@
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.deps.json
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.AssemblyInfoInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.AssemblyInfo.cs
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Infrasturcture.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Infrasturcture.dll
