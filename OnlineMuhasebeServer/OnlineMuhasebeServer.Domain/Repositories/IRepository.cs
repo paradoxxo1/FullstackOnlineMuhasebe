@@ -6,7 +6,7 @@ namespace OnlineMuhasebeServer.Domain.Repositories
     public interface IRepository<T>
         where T : Entity
     {
-        void CreateDbContextInstance(DbContext context);
+        void SetDbContextInstance(DbContext context);
         DbSet<T> Entity { get; set; }
     }
 }
