@@ -4,6 +4,6 @@ namespace OnlineMuhasebeServer.Application.Abstractions
 {
     public interface IJwtProvider
     {
-        string CreateToken(AppUser user, List<string> roles);
+        Task<string> CreateTokenAsync(AppUser user, List<string> roles);
     }
 }

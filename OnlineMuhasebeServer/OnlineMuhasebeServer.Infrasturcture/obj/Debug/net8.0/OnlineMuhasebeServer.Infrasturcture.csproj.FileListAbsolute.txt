@@ -9,3 +9,9 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\D
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Infrasturcture.dll
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.pdb
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Infrasturcture.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net8.0\OnlineMuhasebeServer.Domain.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.csproj.AssemblyReference.cache
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net8.0\OnlineMu.EC1D4C2D.Up2Date
