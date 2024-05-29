@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="Features\AppFeatures\CompanyFeatures\Queries\" />
-    <Folder Include="Features\AppFeatures\RoleFeatures\Queries\" />
     <Folder Include="Features\CompanyFeatures\UCAFFeatures\Queries\" />
   </ItemGroup>
 
