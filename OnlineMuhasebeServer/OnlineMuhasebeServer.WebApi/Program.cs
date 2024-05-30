@@ -40,7 +40,6 @@ using (var scoped = app.Services.CreateScope())
             NameLastName = "Mahmut Demirkýran"
         }, "Password12*").Wait();
     }
-
 }
 
 app.Run();
