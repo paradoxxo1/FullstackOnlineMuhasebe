@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CB5uUhqAR4ar89jKVeYtwOsGccGyw9wbEVXIR5iq5oBSbw+3nTtYfB0hGD4o/+lrvC/EV7RSQNBTWcqEKHGhYA==",
+  "dgSpecHash": "ILQ0Y6FCgY/vxq2ezF+PVW4+8CYVo8K1Ic44Y/kt49m+0bZksNpSdvq9cu0ezVYiWi9uGOVhW1LVXtXf22hTWQ==",
   "success": true,
   "projectFilePath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

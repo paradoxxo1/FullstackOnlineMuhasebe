@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fyqVuLpSL24NHlIqIuuwUKG9fmitJRDBH6HEH+B9U/Ee2VEx08lpCkRn1kKJjl5qB4Nw+Oie4/vigjHsgP+bHg==",
+  "dgSpecHash": "NGOhloYR7f8rt6LXRStZ6lcxqvm+L7OZ4QSgDaWqFsXlcluDxLod2xXoaUubu2ROjzVuyS1eY9+bKdippsUUbQ==",
   "success": true,
   "projectFilePath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

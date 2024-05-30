@@ -1,4 +1,7 @@
-﻿using OnlineMuhasebeServer.Application;
+﻿using FluentValidation;
+using MediatR;
+using OnlineMuhasebeServer.Application;
+using OnlineMuhasebeServer.Application.Behavior;
 
 namespace OnlineMuhasebeServer.WebApi.Configurations
 {
@@ -9,6 +12,9 @@ namespace OnlineMuhasebeServer.WebApi.Configurations
 
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(AssemblyReference).Assembly));
 
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+
+            services.AddValidatorsFromAssembly(typeof(AssemblyReference).Assembly);
         }
     }
 }
