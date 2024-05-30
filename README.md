@@ -8,24 +8,28 @@ Bu proje, Clean Architecture prensiplerine dayalı olarak bir muhasebe programı
    - Angular ile kullanıcı arayüzünü oluşturur.
    - Kullanıcılar için giriş, muhasebe hesapları, faturalar gibi sayfaları içerir.
 
-2. **Application Layer (Uygulama Katmanı)**:
+2. **WebAPI Layer (WebAPI Katmanı)**:
+   - RESTful API'ları oluşturur ve sunar.
+   - Kullanıcılar, muhasebe hesapları, faturalar gibi verilerle etkileşimi sağlar.
+
+3. **Application Layer (Uygulama Katmanı)**:
    - İş mantığını yönetir.
    - Kullanıcı girişi, hesap işlemleri, fatura yönetimi gibi servisleri içerir.
    - FluentValidation ile girdi doğrulaması yapılır.
 
-3. **Domain Layer (Alan Katmanı)**:
+4. **Domain Layer (Alan Katmanı)**:
    - Temel iş mantığını içerir.
    - Muhasebe hesapları, faturalar, kullanıcılar gibi temel nesneleri tanımlar.
 
-4. **Infrastructure Layer (Altyapı Katmanı)**:
+5. **Infrastructure Layer (Altyapı Katmanı)**:
    - Dış servislerle iletişim gibi altyapı işlemlerini yönetir.
    - .NET Core 8 ile oluşturulan API servisleri, günlük kayıtları gibi işlemleri içerir.
 
-5. **Persistence Layer (Kalıcı Katmanı)**:
+6. **Persistence Layer (Kalıcı Katmanı)**:
    - Veritabanı erişimini yönetir.
    - .NET Core 8 ile oluşturulan veritabanı bağlantısı ve veri saklama işlemlerini içerir.
 
-6. **Unit Test Layer (Birim Test Katmanı)**:
+7. **Unit Test Layer (Birim Test Katmanı)**:
    - Uygulamanın iş mantığını ve veri katmanlarını test etmek için kullanılır.
    - Moq, xUnit/NUnit gibi test araçlarını içerir.
 
