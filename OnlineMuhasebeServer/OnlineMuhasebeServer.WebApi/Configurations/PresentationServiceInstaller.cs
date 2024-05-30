@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.OpenApi.Models;
 using OnlineMuhasebeServer.Prenstation;
+using OnlineMuhasebeServer.WebApi.Middleware;
 
 namespace OnlineMuhasebeServer.WebApi.Configurations
 {
@@ -9,6 +10,7 @@ namespace OnlineMuhasebeServer.WebApi.Configurations
     {
         public void Install(IServiceCollection services, IConfiguration configuration)
         {
+            services.AddScoped<ExceptionMiddleware>();
 
             services.AddControllers()
                 .AddApplicationPart(typeof(AssemblyReference).Assembly);

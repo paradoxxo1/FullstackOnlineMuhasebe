@@ -154,3 +154,4 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.dll
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\OnlineMuhasebeServer.Infrasturcture.pdb
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
