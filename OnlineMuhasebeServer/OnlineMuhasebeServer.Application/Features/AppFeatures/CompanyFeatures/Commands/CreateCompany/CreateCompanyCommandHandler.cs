@@ -20,7 +20,7 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.
 
             if (company != null) throw new Exception("Bu Şirket adı daha önce kullanılmıştır!");
 
-            await _companyService.CreateCompany(request);
+            await _companyService.CreateCompany(request, cancellationToken);
 
             return new();
         }

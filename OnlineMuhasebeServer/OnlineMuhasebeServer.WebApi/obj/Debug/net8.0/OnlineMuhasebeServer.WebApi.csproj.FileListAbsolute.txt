@@ -156,3 +156,4 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\FluentValidation.dll
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.MvcApplicationPartsAssemblyInfo.cs
