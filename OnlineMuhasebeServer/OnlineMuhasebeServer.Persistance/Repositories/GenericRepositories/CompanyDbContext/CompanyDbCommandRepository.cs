@@ -8,8 +8,8 @@ namespace OnlineMuhasebeServer.Persistance.Repositories.GenericRepositories.Comp
         where T : Entity
     {
         private static readonly Func<Context.CompanyDbContext, string, Task<T>> GetByIdCompiled =
-            EF.CompileAsyncQuery((Context.CompanyDbContext contex, string id) =>
-            contex.Set<T>().FirstOrDefault(p => p.Id == id));
+            EF.CompileAsyncQuery((Context.CompanyDbContext context, string id) =>
+            context.Set<T>().FirstOrDefault(p => p.Id == id));
 
         private Context.CompanyDbContext _context;
 
@@ -20,7 +20,6 @@ namespace OnlineMuhasebeServer.Persistance.Repositories.GenericRepositories.Comp
             _context = (Context.CompanyDbContext)context;
             Entity = _context.Set<T>();
         }
-
         public async Task AddAsync(T entity, CancellationToken cancellationToken)
         {
             await Entity.AddAsync(entity, cancellationToken);

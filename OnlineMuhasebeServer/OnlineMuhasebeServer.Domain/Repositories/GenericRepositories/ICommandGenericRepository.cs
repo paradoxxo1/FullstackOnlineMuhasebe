@@ -4,7 +4,6 @@ namespace OnlineMuhasebeServer.Domain.Repositories.GenericRepositories;
 
 public interface ICommandGenericRepository<T>
     where T : Entity
-
 {
     Task AddAsync(T entity, CancellationToken cancellationToken);
     Task AddRangeAsync(IEnumerable<T> entities, CancellationToken cancellationToken);

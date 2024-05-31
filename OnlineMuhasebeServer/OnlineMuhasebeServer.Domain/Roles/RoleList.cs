@@ -8,8 +8,7 @@ public sealed class RoleList
     {
         List<AppRole> appRoles = new List<AppRole>
         {
-
-           #region UCAF        
+            #region UCAF
             new AppRole(
             title: UCAF,
             code: UCAFCreateCode,
@@ -29,13 +28,30 @@ public sealed class RoleList
             title: UCAF,
             code: UCAFReadCode,
             name: UCAFReadName),
-
-        #endregion
-
+	        #endregion            
         };
 
         return appRoles;
+    }
 
+    public static List<MainRole> GetStaticMainRoles()
+    {
+        List<MainRole> mainRoles = new List<MainRole>
+        {
+            new MainRole(
+                Guid.NewGuid().ToString(),
+                "Admin",
+                true),
+            new MainRole(
+                Guid.NewGuid().ToString(),
+                "Yönetici",
+                true),
+            new MainRole(
+                Guid.NewGuid().ToString(),
+                "Kullanıcı",
+                true),
+        };
+        return mainRoles;
     }
 
     #region RoleTitleNames
@@ -44,7 +60,7 @@ public sealed class RoleList
 
     #region RoleCodeAndNames
     public static string UCAFCreateCode = "UCAF.Create";
-    public static string UCAFCreateName = "Hesap Planı kayıt";
+    public static string UCAFCreateName = "Hesap Planı Kayıt";
 
     public static string UCAFUpdateCode = "UCAF.Update";
     public static string UCAFUpdateName = "Hesap Planı Güncelle";
@@ -55,5 +71,4 @@ public sealed class RoleList
     public static string UCAFReadCode = "UCAF.Read";
     public static string UCAFReadName = "Hesap Planı Görüntüle";
     #endregion
-
 }

@@ -16,8 +16,8 @@ public class AppCommandRepository<T> : IAppCommandRepository<T>
     }
 
     private static readonly Func<Context.AppDbContext, string, Task<T>> GetByIdCompiled =
-        EF.CompileAsyncQuery((Context.AppDbContext contex, string id) =>
-        contex.Set<T>().FirstOrDefault(p => p.Id == id));
+            EF.CompileAsyncQuery((Context.AppDbContext context, string id) =>
+            context.Set<T>().FirstOrDefault(p => p.Id == id));
 
     public DbSet<T> Entity { get; set; }
 
