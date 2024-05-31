@@ -6,7 +6,6 @@ namespace OnlineMuhasebeServer.Application.Services.AppService
     public interface IRoleService
     {
         Task AddAsync(CreateRoleCommand request);
-
         Task AddRangeAsync(IEnumerable<AppRole> roles);
         Task UpdateAsync(AppRole appRole);
         Task DeleteAsync(AppRole appRole);
