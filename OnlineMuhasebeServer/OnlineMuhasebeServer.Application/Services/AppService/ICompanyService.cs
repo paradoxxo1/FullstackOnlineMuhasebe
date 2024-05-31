@@ -9,6 +9,6 @@ namespace OnlineMuhasebeServer.Application.Services.AppService
 
         Task MigrateCompanyDatabases();
 
-        Task<Company?> GetCompanyByName(string name);
+        Task<Company?> GetCompanyByName(string name, CancellationToken cancellationToken);
     }
 }

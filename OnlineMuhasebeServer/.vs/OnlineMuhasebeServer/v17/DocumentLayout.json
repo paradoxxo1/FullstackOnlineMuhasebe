@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\repositories\\genericrepositories\\companydbcontext\\companydbqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\repositories\\genericrepositories\\companydbcontext\\companydbqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\repositories\\appdbcontext\\companyrepositories\\companyqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\repositories\\appdbcontext\\companyrepositories\\companyqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\appservices\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\appservices\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\services\\appservice\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\services\\appservice\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\createcompany\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\migratecompanydatabases\\migratecompanydatabasescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\migratecompanydatabases\\migratecompanydatabasescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\migratecompanydatabases\\migratecompanydatabasescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\companyfeatures\\commands\\migratecompanydatabases\\migratecompanydatabasescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\repositories\\genericrepositories\\companydbcontext\\companydbqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\repositories\\genericrepositories\\companydbcontext\\companydbqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\repositories\\appdbcontext\\companyrepositories\\companyqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\repositories\\appdbcontext\\companyrepositories\\companyqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +55,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:09:51.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyService.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:58:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppService\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\AppService\\ICompanyService.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppService\\ICompanyService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\AppService\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:56:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCompanyCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:55:14.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MigrateCompanyDatabasesCommand.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommand.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommand.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommand.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:54:40.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MigrateCompanyDatabasesCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\MigrateCompanyDatabases\\MigrateCompanyDatabasesCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:53:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CompanyDbQueryRepository.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Repositories\\GenericRepositories\\CompanyDbContext\\CompanyDbQueryRepository.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Repositories\\GenericRepositories\\CompanyDbContext\\CompanyDbQueryRepository.cs",
@@ -43,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "CompanyQueryRepository.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Repositories\\AppDbContext\\CompanyRepositories\\CompanyQueryRepository.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Repositories\\AppDbContext\\CompanyRepositories\\CompanyQueryRepository.cs",
@@ -51,31 +153,30 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Repositories\\AppDbContext\\CompanyRepositories\\CompanyQueryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T00:37:12.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T00:37:12.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CreateCompanyValidator.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyValidator.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyValidator.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyValidator.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T00:30:34.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CreateCompanyCommand.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommand.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommand.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommand.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T00:28:57.49Z",
               "EditorCaption": ""
