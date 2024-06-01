@@ -19,7 +19,7 @@
           "Newtonsoft.Json": "13.0.3",
           "OnlineMuhasebeServer.Infrasturcture": "1.0.0",
           "OnlineMuhasebeServer.Persistance": "1.0.0",
-          "OnlineMuhasebeServer.Prenstation": "1.0.0",
+          "OnlineMuhasebeServer.Presentation": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -1203,14 +1203,14 @@
           "OnlineMuhasebeServer.Persistance.dll": {}
         }
       },
-      "OnlineMuhasebeServer.Prenstation/1.0.0": {
+      "OnlineMuhasebeServer.Presentation/1.0.0": {
         "dependencies": {
-          "MediatR": "12.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "OnlineMuhasebeServer.Application": "1.0.0"
+          "OnlineMuhasebeServer.Application": "1.0.0",
+          "OnlineMuhasebeServer.Domain": "1.0.0"
         },
         "runtime": {
-          "OnlineMuhasebeServer.Prenstation.dll": {}
+          "OnlineMuhasebeServer.Presentation.dll": {}
         }
       }
     }
@@ -2011,7 +2011,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "OnlineMuhasebeServer.Prenstation/1.0.0": {
+    "OnlineMuhasebeServer.Presentation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

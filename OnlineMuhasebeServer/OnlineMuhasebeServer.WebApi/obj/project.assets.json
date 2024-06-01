@@ -2149,19 +2149,19 @@
           "bin/placeholder/OnlineMuhasebeServer.Persistance.dll": {}
         }
       },
-      "OnlineMuhasebeServer.Prenstation/1.0.0": {
+      "OnlineMuhasebeServer.Presentation/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "MediatR": "12.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "OnlineMuhasebeServer.Application": "1.0.0"
+          "OnlineMuhasebeServer.Application": "1.0.0",
+          "OnlineMuhasebeServer.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/OnlineMuhasebeServer.Prenstation.dll": {}
+          "bin/placeholder/OnlineMuhasebeServer.Presentation.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OnlineMuhasebeServer.Prenstation.dll": {}
+          "bin/placeholder/OnlineMuhasebeServer.Presentation.dll": {}
         }
       }
     }
@@ -5382,10 +5382,10 @@
       "path": "../OnlineMuhasebeServer.Persistance/OnlineMuhasebeServer.Persistance.csproj",
       "msbuildProject": "../OnlineMuhasebeServer.Persistance/OnlineMuhasebeServer.Persistance.csproj"
     },
-    "OnlineMuhasebeServer.Prenstation/1.0.0": {
+    "OnlineMuhasebeServer.Presentation/1.0.0": {
       "type": "project",
-      "path": "../OnlineMuhasebeServer.Prenstation/OnlineMuhasebeServer.Prenstation.csproj",
-      "msbuildProject": "../OnlineMuhasebeServer.Prenstation/OnlineMuhasebeServer.Prenstation.csproj"
+      "path": "../OnlineMuhasebeServer.Presentation/OnlineMuhasebeServer.Presentation.csproj",
+      "msbuildProject": "../OnlineMuhasebeServer.Presentation/OnlineMuhasebeServer.Presentation.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5401,7 +5401,7 @@
       "Newtonsoft.Json >= 13.0.3",
       "OnlineMuhasebeServer.Infrasturcture >= 1.0.0",
       "OnlineMuhasebeServer.Persistance >= 1.0.0",
-      "OnlineMuhasebeServer.Prenstation >= 1.0.0",
+      "OnlineMuhasebeServer.Presentation >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -5438,8 +5438,8 @@
             "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj": {
               "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj"
             },
-            "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj": {
-              "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj"
+            "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj": {
+              "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj"
             }
           }
         }

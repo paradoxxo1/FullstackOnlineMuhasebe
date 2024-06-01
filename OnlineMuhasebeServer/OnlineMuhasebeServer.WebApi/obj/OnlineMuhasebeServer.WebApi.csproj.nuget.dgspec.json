@@ -299,14 +299,14 @@
         }
       }
     },
-    "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj": {
+    "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj",
-        "projectName": "OnlineMuhasebeServer.Prenstation",
-        "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj",
+        "projectUniqueName": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj",
+        "projectName": "OnlineMuhasebeServer.Presentation",
+        "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\obj\\",
+        "outputPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ParadoxXO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -325,6 +325,9 @@
             "projectReferences": {
               "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj": {
                 "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj"
+              },
+              "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj": {
+                "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj"
               }
             }
           }
@@ -344,10 +347,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.2.0, )"
-            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -403,8 +402,8 @@
               "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj": {
                 "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj"
               },
-              "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj": {
-                "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Prenstation\\OnlineMuhasebeServer.Prenstation.csproj"
+              "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj": {
+                "projectPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj"
               }
             }
           }

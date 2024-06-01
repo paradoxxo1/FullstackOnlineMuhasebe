@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace OnlineMuhasebeServer.Presentation
+namespace OnlineMuhasebeServer.Prenstation
 {
     public static class AssemblyReference
     {
