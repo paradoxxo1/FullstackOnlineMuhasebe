@@ -1,6 +1,6 @@
 ﻿using Moq;
 using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Commands.CreateCompany;
-using OnlineMuhasebeServer.Application.Services.AppService;
+using OnlineMuhasebeServer.Application.Services.AppServices;
 using OnlineMuhasebeServer.Domain.AppEntities;
 using Shouldly;
 
@@ -34,6 +34,7 @@ public sealed class CreateCompanyCommandUnitTest
         var handler = new CreateCompanyCommandHandler(_companyService.Object);
 
         CreateCompanyCommandResponse response = await handler.Handle(command, default);
+        response.ShouldNotBeNull();
         response.Message.ShouldNotBeEmpty();
     }
 }

@@ -1,6 +1,6 @@
 ﻿using Moq;
 using OnlineMuhasebeServer.Application.Features.AppFeatures.MainRoleFeatures.Commands.RemoveMainRole;
-using OnlineMuhasebeServer.Application.Services.AppService;
+using OnlineMuhasebeServer.Application.Services.AppServices;
 using Shouldly;
 
 namespace OnlineMuhasebeServer.UnitTest.Features.AppFeatures.MainRoleFeatures
