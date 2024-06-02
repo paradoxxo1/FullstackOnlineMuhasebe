@@ -2,7 +2,7 @@
 using OnlineMuhasebeServer.Application.Features.AppFeatures.MainRoleFeatures.Commands.CreateMainRole;
 using OnlineMuhasebeServer.Application.Features.AppFeatures.MainRoleFeatures.Commands.CreateRole;
 using OnlineMuhasebeServer.Application.Services.AppServices;
-using OnlineMuhasebeServer.Domain;
+using OnlineMuhasebeServer.Domain.AppEntities;
 using Shouldly;
 
 namespace OnlineMuhasebeServer.UnitTest.Features.AppFeatures.MainFeatures;

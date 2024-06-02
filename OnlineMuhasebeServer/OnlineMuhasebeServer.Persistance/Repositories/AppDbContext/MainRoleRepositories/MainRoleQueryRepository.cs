@@ -1,4 +1,4 @@
-﻿using OnlineMuhasebeServer.Domain;
+﻿using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleRepositories;
 using OnlineMuhasebeServer.Persistance.Repositories.GenericRepositories.AppDbContext;
 

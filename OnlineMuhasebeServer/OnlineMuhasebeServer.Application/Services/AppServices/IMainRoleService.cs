@@ -1,4 +1,4 @@
-﻿using OnlineMuhasebeServer.Domain;
+﻿using OnlineMuhasebeServer.Domain.AppEntities;
 
 namespace OnlineMuhasebeServer.Application.Services.AppServices;
 

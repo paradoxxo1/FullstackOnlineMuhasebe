@@ -1,5 +1,5 @@
 ﻿using OnlineMuhasebeServer.Application.Messaging;
-using OnlineMuhasebeServer.Domain;
+using OnlineMuhasebeServer.Domain.AppEntities;
 
 namespace OnlineMuhasebeServer.Application.Features.AppFeatures.MainRoleFeatures.Commands.CreateStaticMainRoles;
 

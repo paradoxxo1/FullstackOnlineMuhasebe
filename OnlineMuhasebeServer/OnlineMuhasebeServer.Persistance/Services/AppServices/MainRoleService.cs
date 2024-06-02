@@ -1,5 +1,5 @@
 ﻿using OnlineMuhasebeServer.Application.Services.AppServices;
-using OnlineMuhasebeServer.Domain;
+using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleRepositories;
 using OnlineMuhasebeServer.Domain.UnitOfWorks;
 
