@@ -11,7 +11,7 @@ public class UserAndCompanyRelationshipService : IUserAndCompanyRelationshipServ
     private readonly IUserAndCompanyRelationshipQueryRepository _queryRepository;
     private readonly IAppUnitOfWork _unitOfWork;
 
-    public UserAndCompanyRelationshipService(IUserAndCompanyRelationshipCommandRepository commandRepository, IUserAndCompanyRelationshipQueryRepository queryRepository,, IAppUnitOfWork unitOfWork)
+    public UserAndCompanyRelationshipService(IUserAndCompanyRelationshipCommandRepository commandRepository, IUserAndCompanyRelationshipQueryRepository queryRepository, IAppUnitOfWork unitOfWork)
     {
         _commandRepository = commandRepository;
         _queryRepository = queryRepository;
