@@ -1,12 +1,143 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\updatemainrole\\updatemainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\updatemainrole\\updatemainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\removebyidmainrole\\removebyidmainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\removebyidmainrole\\removebyidmainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\createmainrole\\createmainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainrolefeatures\\commands\\createmainrole\\createmainrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainroleandrolerlfeatures\\commands\\removebyidmainroleandrolerl\\removebyidmainroleandrolerlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainroleandrolerlfeatures\\commands\\removebyidmainroleandrolerl\\removebyidmainroleandrolerlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\mainroleandrolerlfeatures\\removebyidmainroleandrolerlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\mainroleandrolerlfeatures\\removebyidmainroleandrolerlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainroleandrolerlfeatures\\commands\\removebyidmainroleandrolerl\\removebyidmainroleandrolerlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainroleandrolerlfeatures\\commands\\removebyidmainroleandrolerl\\removebyidmainroleandrolerlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\mainroleandrolerelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\mainroleandrolerelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateMainRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\UpdateMainRole\\UpdateMainRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\UpdateMainRole\\UpdateMainRoleCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\UpdateMainRole\\UpdateMainRoleCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\UpdateMainRole\\UpdateMainRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:56:50.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveByIdMainRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\RemoveByIdMainRole\\RemoveByIdMainRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\RemoveByIdMainRole\\RemoveByIdMainRoleCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\RemoveByIdMainRole\\RemoveByIdMainRoleCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\RemoveByIdMainRole\\RemoveByIdMainRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:54:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateMainRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\CreateMainRole\\CreateMainRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\CreateMainRole\\CreateMainRoleCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\CreateMainRole\\CreateMainRoleCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleFeatures\\Commands\\CreateMainRole\\CreateMainRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:49:17.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveByIdMainRoleAndRoleRLCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:43:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveByIdMainRoleAndRoleRLCommandUnitTest.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\RemoveByIdMainRoleAndRoleRLCommandUnitTest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\RemoveByIdMainRoleAndRoleRLCommandUnitTest.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\RemoveByIdMainRoleAndRoleRLCommandUnitTest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\RemoveByIdMainRoleAndRoleRLCommandUnitTest.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:28:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainRoleAndRoleRelationshipsController.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndRoleRelationshipsController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndRoleRelationshipsController.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndRoleRelationshipsController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndRoleRelationshipsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:22:06.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveByIdMainRoleAndRoleRLCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndRoleRLFeatures\\Commands\\RemoveByIdMainRoleAndRoleRL\\RemoveByIdMainRoleAndRoleRLCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:17:47.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
