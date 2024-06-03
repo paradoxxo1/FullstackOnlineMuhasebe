@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\userandcompanyrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\userandcompanyrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\appservices\\mainroleanduserrelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\appservices\\mainroleanduserrelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\removebyiduserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\removebyiduserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\mainroleanduserrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\mainroleanduserrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\mainroleanduserrlfeaures\\removebyidmainroleanduserrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\mainroleanduserrlfeaures\\removebyidmainroleanduserrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\mainroleanduserrlfeatures\\commands\\removebyidmainroleanduserrl\\removebyidmainroleanduserrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:55:44.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserAndCompanyRelationshipsController.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "MainRoleAndUserRelationshipService.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\MainRoleAndUserRelationshipService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\MainRoleAndUserRelationshipService.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\MainRoleAndUserRelationshipService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\MainRoleAndUserRelationshipService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:54:51.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RemoveByIdUserAndCompanyRLCommandValidator.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:52:46.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RemoveByIdUserAndCompanyRLCommandHandler.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:50:50.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RemoveByIdUserAndCompanyRLCommandResponse.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:49:24.735Z",
+              "WhenOpened": "2024-06-03T14:12:09.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RemoveByIdUserAndCompanyRLCommand.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
+              "Title": "RemoveByIdMainRoleAndUserRLCommandResponse.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandResponse.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:12:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveByIdMainRoleAndUserRLCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:10:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveByIdMainRoleAndUserRLCommandUnitTest.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndUserRLFeaures\\RemoveByIdMainRoleAndUserRLCommandUnitTest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndUserRLFeaures\\RemoveByIdMainRoleAndUserRLCommandUnitTest.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndUserRLFeaures\\RemoveByIdMainRoleAndUserRLCommandUnitTest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\MainRoleAndUserRLFeaures\\RemoveByIdMainRoleAndUserRLCommandUnitTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:01:02.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainRoleAndUserRelationshipsController.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndUserRelationshipsController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndUserRelationshipsController.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndUserRelationshipsController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\MainRoleAndUserRelationshipsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:00:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveByIdMainRoleAndUserRLCommand.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommand.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommand.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommand.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\MainRoleAndUserRLFeatures\\Commands\\RemoveByIdMainRoleAndUserRL\\RemoveByIdMainRoleAndUserRLCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:48:34.017Z",
+              "WhenOpened": "2024-06-03T13:33:56.926Z",
               "EditorCaption": ""
             }
           ]
