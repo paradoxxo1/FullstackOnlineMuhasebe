@@ -54,6 +54,14 @@ Bu proje, Clean Architecture prensiplerine dayalı olarak bir muhasebe programı
 3. **Veritabanı Ayarları**:
    - Veritabanı bağlantısını `appsettings.json` dosyasında yapılandırın.
 
+
+![1](https://github.com/paradoxxo1/FullstackOnlineMuhasebe/assets/124463263/31457375-d1ef-4493-9cc5-d3d9d808e69e)
+![2](https://github.com/paradoxxo1/FullstackOnlineMuhasebe/assets/124463263/e63f452b-436a-4648-bfbe-03450365dfe5)
+![3](https://github.com/paradoxxo1/FullstackOnlineMuhasebe/assets/124463263/02342328-e7f7-4f83-a7eb-469b2cde797b)
+![4](https://github.com/paradoxxo1/FullstackOnlineMuhasebe/assets/124463263/142304fd-eb68-4e42-97ee-54c6b0537e0e)
+
+
+
 ## Birimler ve Araçlar
 
 - **FluentValidation**: Application Layer'da giriş doğrulamalarını yapmak için kullanılır.
