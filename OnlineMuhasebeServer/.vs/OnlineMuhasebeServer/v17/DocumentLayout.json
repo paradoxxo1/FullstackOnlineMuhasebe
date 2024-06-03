@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\appservices\\userandcompanyrelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\appservices\\userandcompanyrelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\createuserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\createuserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\userandcompanyrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\userandcompanyrelationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\removebyiduserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\userandcompanyrlfeatures\\removebyiduserandcompanyrlcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\appentities\\userandcompanyrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\appentities\\userandcompanyrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\createuserandcompanyrl\\createuserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\userandcompanyrlfeatures\\commands\\removebyiduserandcompanyrl\\removebyiduserandcompanyrlcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserAndCompanyRelationshipService.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\UserAndCompanyRelationshipService.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\UserAndCompanyRelationshipService.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\UserAndCompanyRelationshipService.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\UserAndCompanyRelationshipService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:03:08.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateUserAndCompanyRLCommandUnitTest.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\CreateUserAndCompanyRLCommandUnitTest.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\CreateUserAndCompanyRLCommandUnitTest.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\CreateUserAndCompanyRLCommandUnitTest.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\CreateUserAndCompanyRLCommandUnitTest.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAA+AAAA",
+              "Title": "RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\RemoveByIdUserAndCompanyRLCommandUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:51:38.123Z",
+              "WhenOpened": "2024-06-03T11:55:44.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserAndCompanyRelationshipsController.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UserAndCompanyRelationshipsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:48:47.486Z",
+              "WhenOpened": "2024-06-03T11:54:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveByIdUserAndCompanyRLCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:52:46.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CreateUserAndCompanyRLValidator.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLValidator.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLValidator.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLValidator.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "RemoveByIdUserAndCompanyRLCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:46:16.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserAndCompanyRelationship.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\UserAndCompanyRelationship.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\AppEntities\\UserAndCompanyRelationship.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\UserAndCompanyRelationship.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\AppEntities\\UserAndCompanyRelationship.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:40:45.323Z",
+              "WhenOpened": "2024-06-03T11:50:50.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateUserAndCompanyRLCommandHandler.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandHandler.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandHandler.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandHandler.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBsAAAAVAAAA",
+              "Title": "RemoveByIdUserAndCompanyRLCommandResponse.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:36:54.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateUserAndCompanyRLCommandResponse.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandResponse.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandResponse.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandResponse.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:36:24.965Z",
+              "WhenOpened": "2024-06-03T11:49:24.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateUserAndCompanyRLCommand.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommand.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommand.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommand.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\CreateUserAndCompanyRL\\CreateUserAndCompanyRLCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "RemoveByIdUserAndCompanyRLCommand.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\UserAndCompanyRLFeatures\\Commands\\RemoveByIdUserAndCompanyRL\\RemoveByIdUserAndCompanyRLCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:35:46.7Z",
+              "WhenOpened": "2024-06-03T11:48:34.017Z",
               "EditorCaption": ""
             }
           ]
