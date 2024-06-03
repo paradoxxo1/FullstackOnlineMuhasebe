@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using OnlineMuhasebeServer.Application.Services.AppServices;
 using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleAndRoleRelationshipRepositories;
@@ -37,6 +38,11 @@ public class MainRoleAndRoleRelationshipService : IMainRoleAndRoleRelationshipSe
     public async Task<MainRoleAndRoleRelationship> GetByRoleIdAndMainRoleId(string roleId, string mainRoleId, CancellationToken cancellationToken = default)
     {
         return await _queryRepository.GetFirstByExpiression(p => p.RoleId == roleId && p.MainRoleId == mainRoleId, cancellationToken);
+    }
+
+    public async Task<IList<MainRoleAndRoleRelationship>> GetListByMainRoleIdForGetRolesAsync(string id)
+    {
+        return await _queryRepository.GetWhere(p => p.MainRoleId == id).Include("AppRole").ToListAsync();
     }
 
     public async Task RemoveByIdAsync(string id)
