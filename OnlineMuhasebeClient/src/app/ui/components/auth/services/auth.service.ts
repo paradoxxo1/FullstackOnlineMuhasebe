@@ -25,4 +25,9 @@ export class AuthService {
     })
   }  
 
+  logout() {
+    localStorage.removeItem("accessToken");
+    this._router.navigateByUrl("/login")
+  }
+
 }
