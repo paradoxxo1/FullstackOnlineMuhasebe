@@ -6,6 +6,7 @@ import { FormsModule, NgForm } from '@angular/forms';
 import { ValidInputDirective } from 'src/app/common/directives/valid-input.directive';
 import { LoadingButtonComponent } from 'src/app/common/components/loading-button/loading-button.component';
 import { AuthService } from '../services/auth.service';
+import { ToastrService, ToastrType } from 'src/app/common/services/toastr.service';
 
 
 @Component({
@@ -18,11 +19,13 @@ import { AuthService } from '../services/auth.service';
 export class LoginComponent {
   constructor(
     private _auth: AuthService,
-  ){    
+    private _toastr: ToastrService
+  ) {
+    _toastr.toast(ToastrType.Success, "Deneme başlık", "Deneme içerik");
   }
 
   login(form: NgForm) {
-    if (form.valid) {      
+    if (form.valid) {
       this._auth.login(form.value);
     }
   }
