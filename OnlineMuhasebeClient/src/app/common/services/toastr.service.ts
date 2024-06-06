@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
-
-declare const $: any;
-declare let toastr: any;
+declare const $:any;
+declare let toastr:any;
 
 @Injectable({
   providedIn: 'root'
@@ -10,27 +9,23 @@ export class ToastrService {
 
   constructor() { }
 
-  toast(type: ToastrType, message: string, title: string) {
+  toast(type: ToastrType,message: string, title: string = ""){
     switch (type) {
       case ToastrType.Success:
-        toastr.success(title, message)
+        toastr.success(title,message);
         break;
       case ToastrType.Info:
-        toastr.info(title, message)
+        toastr.info(title,message);
         break;
       case ToastrType.Error:
-        toastr.error(title, message)
+        toastr.error(title,message);
         break;
       case ToastrType.Warning:
-        toastr.warning(title, message)
+        toastr.warning(title,message);
         break;
-
-
-
-
       default:
         break;
-    }
+    }    
   }
 }
 

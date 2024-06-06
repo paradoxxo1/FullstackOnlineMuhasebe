@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { CommonModule, NgFor } from '@angular/common';
+import { CommonModule } from '@angular/common';
 import { NgForm } from '@angular/forms';
 
 @Component({
