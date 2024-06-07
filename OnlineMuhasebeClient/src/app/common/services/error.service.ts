@@ -26,7 +26,7 @@ export class ErrorService {
             this._toastr.toast(ToastrType.Error,"Hata!",element);
           });          
         }else{          
-          this._toastr.toast(ToastrType.Error,"Hata!",err.error.message);
+          this._toastr.toast(ToastrType.Error,"Hata!",err.error.Message);
         }
        break;
       default:        

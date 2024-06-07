@@ -10,7 +10,7 @@ import { NgForm } from '@angular/forms';
   styleUrls: ['./loading-button.component.css']
 })
 export class LoadingButtonComponent {
-  @Input() isloading: boolean = false;
+  @Input() isLoading: boolean = false;
   @Input() form: NgForm;
   @Input() btnName: string = "";
   @Input() btnLoadingDescription: string = "";
