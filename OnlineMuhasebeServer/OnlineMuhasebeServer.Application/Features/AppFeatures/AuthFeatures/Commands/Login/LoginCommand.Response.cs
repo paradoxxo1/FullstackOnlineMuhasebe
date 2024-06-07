@@ -8,5 +8,6 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Com
         string UserId,
         string NameLastName,
         IList<CompanyDto> Companies,
+        int Year,
         CompanyDto Company);
 }

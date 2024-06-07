@@ -141,7 +141,6 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.AssemblyInfoInputs.cache
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.AssemblyInfo.cs
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.csproj.CoreCompileInputs.cache
-C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\staticwebassets.development.json

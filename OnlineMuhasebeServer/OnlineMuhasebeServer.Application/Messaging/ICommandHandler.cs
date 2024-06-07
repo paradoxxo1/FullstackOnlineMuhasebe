@@ -1,10 +1,9 @@
 ﻿using MediatR;
 
-namespace OnlineMuhasebeServer.Application.Messaging
+namespace OnlineMuhasebeServer.Application.Messaging;
+
+public interface ICommandHandler<in TCommand, TResponse> :
+    IRequestHandler<TCommand, TResponse>
+    where TCommand : ICommand<TResponse>
 {
-    public interface ICommandHandler<in TCommand, TResponse> :
-        IRequestHandler<TCommand, TResponse>
-        where TCommand : ICommand<TResponse>
-    {
-    }
 }

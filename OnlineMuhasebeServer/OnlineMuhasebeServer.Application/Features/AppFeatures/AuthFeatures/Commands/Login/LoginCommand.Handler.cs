@@ -33,7 +33,7 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Com
             if (companies.Count() == 0) throw new Exception("Herhangi bir şirkete kayıtlı değilsiniz!");
 
             IList<CompanyDto> companiesDto = companies.Select(s => new CompanyDto(
-                s.Id, s.Company.Name)).ToList();
+                s.Company.Id, s.Company.Name)).ToList();
 
             LoginQueryResponse response = new(
                 Token: await _jwtProvider.CreateTokenAsync(user),
@@ -41,7 +41,8 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Com
                 UserId: user.Id,
                 NameLastName: user.NameLastName,
                 Companies: companiesDto,
-                Company: companiesDto[0]);
+                Company: companiesDto[0],
+                Year: DateTime.Now.Year);
 
             return response;
         }
