@@ -12,7 +12,7 @@ import { ControlSidebarComponent } from './control-sidebar/control-sidebar.compo
 @Component({
   selector: 'app-layouts',
   standalone: true,
-  imports: [CommonModule, RouterModule, NavbarComponent,AsideComponent,FooterComponent,ControlSidebarComponent],
+  imports: [CommonModule, RouterModule, NavbarComponent, AsideComponent, FooterComponent, ControlSidebarComponent],
   templateUrl: './layouts.component.html',
   styleUrls: ['./layouts.component.css']
 })
@@ -21,8 +21,8 @@ export class LayoutsComponent {
   loginResponse: LoginReponseModel = new LoginReponseModel();
   constructor(
     private _crypto: CryptoService
-  ){
-    let loginResponseString = _crypto.decrypto(localStorage.getItem("accessToken").toString());    
+  ) {
+    let loginResponseString = _crypto.decrypto(localStorage.getItem("accessToken").toString());
     this.loginResponse = JSON.parse(loginResponseString);
   }
 }
