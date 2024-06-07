@@ -10,16 +10,11 @@ public class CompanyDbQueryRepository<T> : ICompanyDbQueryRepository<T>
 {
     private static readonly Func<Context.CompanyDbContext, string, bool, Task<T>> GetByIdCompiled =
         EF.CompileAsyncQuery((Context.CompanyDbContext contex, string id, bool isTracking) =>
-
-        isTracking == true
-        ? contex.Set<T>().FirstOrDefault(p => p.Id == id)
-        : contex.Set<T>().AsNoTracking().FirstOrDefault(p => p.Id == id));
+        contex.Set<T>().AsNoTracking().FirstOrDefault(p => p.Id == id));
 
     private static readonly Func<Context.CompanyDbContext, bool, Task<T>> GetFirstCompiled =
      EF.CompileAsyncQuery((Context.CompanyDbContext contex, bool isTracking) =>
-     isTracking == true
-     ? contex.Set<T>().FirstOrDefault()
-     : contex.Set<T>().AsNoTracking().FirstOrDefault());
+     contex.Set<T>().AsNoTracking().FirstOrDefault());
 
     private Context.CompanyDbContext _context;
     public DbSet<T> Entity { get; set; }

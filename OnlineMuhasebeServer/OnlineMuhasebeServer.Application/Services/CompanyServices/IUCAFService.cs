@@ -9,4 +9,8 @@ public interface IUCAFService
     Task<UniformChartOfAccount> GetByCodeAsync(string companyId, string code, CancellationToken cancellation);
     Task CreateMainUcafsToCompanyAsync(string companyId, CancellationToken cancellationToken);
     Task<IList<UniformChartOfAccount>> GetAllAsync(string companyId);
+    Task RemoveByIdUcafAsync(string id, string companyId);
+
+    Task<bool> CheckRemoveByIdUcafIsGroupAndAvailable(string id, string companyId);
 }
+
