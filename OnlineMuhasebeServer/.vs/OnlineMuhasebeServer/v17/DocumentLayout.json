@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\companyfeatures\\removebyiducafcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\companyfeatures\\removebyiducafcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +66,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:06:08.184Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:06:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:06:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:04:11.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RemoveByIdUCAFCommandUnitTest.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\RemoveByIdUCAFCommandUnitTest.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\RemoveByIdUCAFCommandUnitTest.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\RemoveByIdUCAFCommandUnitTest.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\RemoveByIdUCAFCommandUnitTest.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAABDAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:36:01.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:36:01.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RemoveByIdUCAFCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
@@ -71,12 +135,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:56:45.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:56:45.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CompanyDbQueryRepository.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Repositories\\GenericRepositories\\CompanyDbContext\\CompanyDbQueryRepository.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Repositories\\GenericRepositories\\CompanyDbContext\\CompanyDbQueryRepository.cs",
@@ -84,12 +147,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Repositories\\GenericRepositories\\CompanyDbContext\\CompanyDbQueryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:14:44.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T17:14:44.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UCAFService.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
@@ -97,12 +159,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwCMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:59:33.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:59:33.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UCAFsController.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
@@ -110,12 +171,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:44:52.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:44:52.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IUCAFService.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
@@ -123,12 +183,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:40:44.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:40:44.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CreateUCAFCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
@@ -136,12 +195,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:40:37.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:40:37.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CreateUCAFCommandUnitTest.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\CreateUCAFCommandUnitTest.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\CreateUCAFCommandUnitTest.cs",
@@ -149,8 +207,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\CreateUCAFCommandUnitTest.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAtwA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T16:35:23.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T16:35:23.572Z"
             }
           ]
         }
