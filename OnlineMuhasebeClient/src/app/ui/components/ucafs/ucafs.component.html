@@ -32,6 +32,8 @@
                         btnLoadingDescription="Kaydediliyor..."></app-loading-button>
                 </div>
                 <div class="col-md-12">
+                    <button class="btn btn-outline-danger w-100" (click)="cancel()">
+                        <i class="fa fa-xmark"></i>Vazgeç</button>
                 </div>
             </div>
         </form>
@@ -40,7 +42,7 @@
 
     <app-section sectionTitle="Hesap Planı Listesi">
         <div class="form-group float-left col-md-2">
-            <div class="btn btn-outline-primary" (click)="showAddForm()">
+            <div class="btn btn-outline-primary" *ngIf="!isAddForm" (click)="showAddForm()">
                 <i class="fa fa-plus"></i>
 
             </div>
@@ -59,17 +61,21 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor="let ucaf of ucafs | ucafPipe:filterText let index = index">
+                    <tr *ngFor="let ucaf of ucafs | ucafPipe:filterText let index = index"
+                        [class]="setTrClass(ucaf.type)">
                         <td [innerText]="ucaf.code"></td>
                         <td [innerText]="ucaf.type"></td>
                         <td [innerText]="ucaf.name"></td>
                         <td>
-                            <button class="btn btn-outline-warning btn-sm" title="Güncelle">
-                                <i class="fa fa-edit"></i>
-                            </button>
-                            <button class="btn btn-outline-danger btn-sm mx-1" title="Sil" (click)="removeById(ucaf.id)">
-                                <i class="fa fa-trash"></i>
-                            </button>
+                            <div *ngIf="ucaf.type != 'A' ">
+                                <button class="btn btn-outline-warning btn-sm" title="Güncelle">
+                                    <i class="fa fa-edit"></i>
+                                </button>
+                                <button class="btn btn-outline-danger btn-sm mx-1" title="Sil"
+                                    (click)="removeById(ucaf.id)">
+                                    <i class="fa fa-trash"></i>
+                                </button>
+                            </div>
                         </td>
                     </tr>
                 </tbody>

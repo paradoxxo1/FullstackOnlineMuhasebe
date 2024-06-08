@@ -46,7 +46,7 @@ export class UcafsComponent implements OnInit {
   filterText: string = "";
   isAddForm: boolean = false;
   ucafType: string = "M";
-  isLoading : boolean = false;
+  isLoading: boolean = false;
 
   constructor(
     private _ucaf: UcafService,
@@ -64,37 +64,51 @@ export class UcafsComponent implements OnInit {
     this.isAddForm = true;
   }
 
-  add(form: NgForm){
-    if(form.valid){
+  add(form: NgForm) {
+    if (form.valid) {
       this.isLoading = true;
       let model = new UcafModel();
       model.code = form.controls["code"].value;
       model.type = form.controls["type"].value;
       model.name = form.controls["name"].value;
 
-      this._ucaf.add(model, (res)=>{
-        form.reset();
+      this._ucaf.add(model, (res) => {
+        form.controls["code"].setValue("");
+        form.controls["name"].setValue("");
         this.ucafType = 'M';
+
         this.getAll();
         this.isLoading = false;
-        this._toastr.toast(ToastrType.Success,res.message,"Başarılı!")
+        this._toastr.toast(ToastrType.Success, res.message, "Başarılı!")
       });
     }
 
   }
 
-  removeById(id:string){
+  cancel() {
+    this.isAddForm = false;
+  }
+
+  removeById(id: string) {
     var result = confirm("Silme işlemi yapmak istiyor musunuz?");
-    if(result){
+    if (result) {
       let model = new RemoveByIdUcafModel();
-      model.id=id;
+      model.id = id;
 
-      this._ucaf.removeById(model,res=> {
+      this._ucaf.removeById(model, res => {
         this.getAll();
-        this._toastr.toast(ToastrType.Info, res.message,"Silme Başarılı!");
+        this._toastr.toast(ToastrType.Info, res.message, "Silme Başarılı!");
       });
     }
 
   }
 
+  setTrClass(type: string) {
+    if (type == "A")
+      return "text-danger"
+    else if (type == "G")
+      return "text-primary";
+    else
+      return "";
+  }
 }
