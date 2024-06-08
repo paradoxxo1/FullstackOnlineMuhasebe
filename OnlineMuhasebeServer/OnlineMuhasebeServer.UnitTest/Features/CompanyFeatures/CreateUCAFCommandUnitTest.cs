@@ -23,8 +23,8 @@ public sealed class CreateUCAFCommandUnitTest
         UniformChartOfAccount ucaf = await _ucafService.Object.GetByCodeAsync(companyId, code, default);
         ucaf.ShouldBeNull();
     }
-    [Fact]
 
+    [Fact]
     public async Task CreateUCAFCommandResponseShouldNotBeNull()
     {
         var command = new CreateUCAFCommand(

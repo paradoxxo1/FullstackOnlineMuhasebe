@@ -73,5 +73,4 @@ public sealed class CompanyDbContext : DbContext
         }
         return base.SaveChangesAsync(cancellationToken);
     }
-
 }
