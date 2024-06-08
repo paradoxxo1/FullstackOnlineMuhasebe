@@ -70,8 +70,7 @@
                 <div class="col-md-3">
                     <label>İşlemler</label>
                     <app-loading-button [form]="updateForm" btnClass="btn btn-outline-info w-100" btnName="Güncelle"
-                        btnLoadingClass="btn btn-outline-info w-100"
-                        btnLoadingDescription="Güncelleniyor..."
+                        btnLoadingClass="btn btn-outline-info w-100" btnLoadingDescription="Güncelleniyor..."
                         iconClass="fa fa-check"></app-loading-button>
                 </div>
                 <div class="col-md-12">
@@ -83,6 +82,7 @@
     </app-section>
     <!-- Güncelleme Formu -->
 
+    <!-- Liste -->
     <app-section sectionTitle="Hesap Planı Listesi">
         <div class="form-group float-left col-md-2">
             <div class="btn btn-outline-primary" *ngIf="!isAddForm && !isUpdateForm" (click)="showAddForm()">
@@ -125,4 +125,5 @@
             </table>
         </div>
     </app-section>
+    <!-- Liste -->
 </app-blank>

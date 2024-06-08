@@ -11,11 +11,14 @@ export class LoginResponseService {
   constructor(
     private _crypto: CryptoService,
   ) {
-    let loginResponseString = _crypto.decrypto(localStorage.getItem("accessToken").toString());
-    this.loginResponse = JSON.parse(loginResponseString);
+    let token = localStorage.getItem("accessToken")?.toString();
+    if (token != undefined) {
+      let loginResponseString = _crypto.decrypto(token);
+      this.loginResponse = JSON.parse(loginResponseString);
+    }
   }
 
-  getLoginResponmseModel(){
+  getLoginResponmseModel() {
     return this.loginResponse;
   }
 }

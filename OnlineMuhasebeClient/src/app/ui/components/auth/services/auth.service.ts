@@ -22,7 +22,7 @@ export class AuthService {
       let cryptoValue = this._crypto.encrypto(JSON.stringify(res));
       localStorage.setItem("accessToken",cryptoValue);
       this._router.navigateByUrl("/");
-    })
+    });
   }  
 
   logout() {
