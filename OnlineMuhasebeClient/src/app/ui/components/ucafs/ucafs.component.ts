@@ -44,10 +44,15 @@ export class UcafsComponent implements OnInit {
 
   ]
   ucafs: UcafModel[] = [];
-  filterText: string = "";
-  isAddForm: boolean = false;
+  updateModel: UcafModel = new UcafModel();
   ucafType: string = "M";
+  filterText: string = "";
+
   isLoading: boolean = false;
+
+  isAddForm: boolean = false;
+  isUpdateForm: boolean = false;
+
 
   constructor(
     private _ucaf: UcafService,
@@ -86,13 +91,33 @@ export class UcafsComponent implements OnInit {
     }
 
   }
-
-  cancel() {
+  get(model: UcafModel) {
+    this.updateModel = { ...model };
+    this.isUpdateForm = true;
     this.isAddForm = false;
   }
 
+  update(form: NgForm) {
+    if (form.valid) {
+
+      this.isLoading = true;
+
+      this._ucaf.update(this.updateModel, (res) => {
+        this.cancel();
+        this.getAll();
+        this.isLoading = false;
+        this._toastr.toast(ToastrType.Info, res.message, "Başarılı!")
+      });
+    }
+  }
+
+  cancel() {
+    this.isAddForm = false;
+    this.isUpdateForm = false;
+  }
+
   removeById(id: string) {
-    this._swal.callSwal("Sil","Sil?","Hesap planı kodunu silmek istiyor musunuz?",()=>{
+    this._swal.callSwal("Sil", "Sil?", "Hesap planı kodunu silmek istiyor musunuz?", () => {
       let model = new RemoveByIdModel();
       model.id = id;
 
@@ -100,7 +125,7 @@ export class UcafsComponent implements OnInit {
         this.getAll();
         this._toastr.toast(ToastrType.Info, res.message, "Silme Başarılı!");
       });
-    });   
+    });
   }
 
   setTrClass(type: string) {
