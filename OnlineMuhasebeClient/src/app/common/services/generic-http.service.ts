@@ -84,7 +84,7 @@ export class GenericHttpService {
 
   getToken() {
     let accessToken = localStorage.getItem("accessToken");
-    if(accessToken == undefined || accessToken == null){
+    if (accessToken == undefined || accessToken == null) {
       return;
     }
     this.loginResponse = this._loginResponse.getLoginResponmseModel();
@@ -115,6 +115,8 @@ export class GenericHttpService {
             error: (err) => {
               this._error.errorHandler(err);
               console.log(err);
+              localStorage.removeItem("accessToken");
+              this._router.navigateByUrl("/login")
             }
           });
         }
