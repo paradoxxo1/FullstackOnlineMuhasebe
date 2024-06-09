@@ -11,28 +11,27 @@ export class ErrorService {
     private _toastr: ToastrService
   ) { }
 
-  errorHandler(err: HttpErrorResponse){   
+  errorHandler(err: HttpErrorResponse) {
     switch (err.status) {
       case 0:
-        this._toastr.toast(ToastrType.Error,"Hata!","Api adresine ulaşılamıyor!");
+        this._toastr.toast(ToastrType.Error, "Hata!", "Api adresine ulaşılamıyor!");
         break;
       case 404:
-        this._toastr.toast(ToastrType.Error,"Hata!","Api adresi bulunamıyor!");
+        this._toastr.toast(ToastrType.Error, "Hata!", "Api adresi bulunamıyor!");
         break;
-      case 500:        
-        if(err.error.Errors){          
-          let errors:any = err.error.Errors;          
-          errors.forEach((element:any) => {            
-            this._toastr.toast(ToastrType.Error,"Hata!",element);
-          });          
-        }else{          
-          this._toastr.toast(ToastrType.Error,"Hata!",err.error.Message);
+      case 500:
+        if (err.error.Errors) {
+          let errors: any = err.error.Errors;
+          errors.forEach((element: any) => {
+            this._toastr.toast(ToastrType.Error, "Hata!", element);
+          });
+        } else {
+          this._toastr.toast(ToastrType.Error, "Hata!", err.error.Message);
         }
-       break;
-      default:        
         break;
-    }    
-
+      default:
+        break;
+    }
     console.log(err);
   }
 }
