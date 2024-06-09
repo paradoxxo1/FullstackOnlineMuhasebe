@@ -4,5 +4,5 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Com
 {
     public sealed record LoginCommand(
         string EmailOrUserName,
-        string Password) : ICommand<LoginQueryResponse>;
+        string Password) : ICommand<LoginCommandResponse>;
 }

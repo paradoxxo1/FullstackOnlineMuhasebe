@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\gettokenbyrefreshtoken\\gettokenbyrefreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\appfeatures\\authfeatures\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.infrasturcture\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|solutionrelative:onlinemuhasebeserver.infrasturcture\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\appfeatures\\appuserfeatures\\logincommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\appfeatures\\appuserfeatures\\logincommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,9 +48,61 @@
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\AuthController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwBcAAAA/AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:30:20.342Z",
+              "WhenOpened": "2024-06-09T00:09:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginCommandUnitTest.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\AppUserFeatures\\LoginCommandUnitTest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\AppUserFeatures\\LoginCommandUnitTest.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\AppUserFeatures\\LoginCommandUnitTest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\AppFeatures\\AppUserFeatures\\LoginCommandUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:07:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:07:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:06:46.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:06:37.034Z",
               "EditorCaption": ""
             },
             {
@@ -61,57 +113,10 @@
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\Login\\LoginCommandHandler.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA1wC4AAAAYAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:54:29.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetTokenByRefreshTokenCommandHandler.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandHandler.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandHandler.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandHandler.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:52:20.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetTokenByRefreshTokenCommandResponse.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandResponse.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandResponse.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandResponse.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:51:25.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetTokenByRefreshTokenCommand.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommand.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommand.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommand.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\AppFeatures\\AuthFeatures\\Commands\\GetTokenByRefreshToken\\GetTokenByRefreshTokenCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:49:17.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:39:03.036Z"
+              "WhenOpened": "2024-06-09T00:04:58.399Z",
+              "EditorCaption": ""
             }
           ]
         }

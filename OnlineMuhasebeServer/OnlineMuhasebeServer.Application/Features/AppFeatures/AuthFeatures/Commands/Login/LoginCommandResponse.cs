@@ -1,8 +1,8 @@
 ﻿using OnlineMuhasebeServer.Domain.Dtos;
 
-namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Commands.Login
-{
-    public sealed record LoginQueryResponse(
+namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Commands.Login;
+
+public sealed record LoginCommandResponse(
         TokenRefreshTokenDto Token,
         string Email,
         string UserId,
@@ -10,4 +10,4 @@ namespace OnlineMuhasebeServer.Application.Features.AppFeatures.AuthFeatures.Com
         IList<CompanyDto> Companies,
         int Year,
         CompanyDto Company);
-}
+
