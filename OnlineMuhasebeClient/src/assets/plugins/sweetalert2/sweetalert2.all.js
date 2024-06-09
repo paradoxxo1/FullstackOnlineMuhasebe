@@ -317,7 +317,7 @@
   const isToast = () => {
     return getPopup() && hasClass(getPopup(), swalClasses.toast);
   };
-  const isLoading = () => {
+  const isloading = () => {
     return getPopup().hasAttribute('data-loading');
   };
 
@@ -2735,7 +2735,7 @@
     getTimerProgressBar: getTimerProgressBar,
     getFocusableElements: getFocusableElements,
     getValidationMessage: getValidationMessage,
-    isLoading: isLoading,
+    isloading: isloading,
     fire: fire,
     mixin: mixin,
     showLoading: showLoading,

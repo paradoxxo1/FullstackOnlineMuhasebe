@@ -1,10 +1,16 @@
 import { Pipe, PipeTransform } from '@angular/core';
+import { StringService } from 'src/app/common/services/string.service';
 
 @Pipe({
   name: 'ucafPipe',
-  standalone: true
+  standalone: true,
+
 })
 export class UcafPipe implements PipeTransform {
+
+  constructor(
+    private _string : StringService
+  ){}
 
   transform(value: any[], filterText: string): any[] {
     if (filterText == "") {
@@ -12,8 +18,8 @@ export class UcafPipe implements PipeTransform {
     }
 
     return value.filter(p => {
-      const code = p.code.toLowerCase().includes(filterText.toLocaleLowerCase());
-      const name = p.name.toLowerCase().includes(filterText.toLocaleLowerCase());
+      const name =this._string.trLowerCase(p.name).includes(this._string.trLowerCase(filterText));
+      const code = p.code.includes(this._string.trLowerCase(filterText));
       return code + name;
     })
   }

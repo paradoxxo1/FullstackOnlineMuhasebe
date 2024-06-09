@@ -5284,7 +5284,7 @@ var FullCalendar = (function (exports) {
             id: guid(),
             deps: input.deps || [],
             reducers: input.reducers || [],
-            isLoadingFuncs: input.isLoadingFuncs || [],
+            isloadingFuncs: input.isloadingFuncs || [],
             contextInit: [].concat(input.contextInit || []),
             eventRefiners: input.eventRefiners || {},
             eventDefMemberAdders: input.eventDefMemberAdders || [],
@@ -5322,7 +5322,7 @@ var FullCalendar = (function (exports) {
         var isAdded = {};
         var hooks = {
             reducers: [],
-            isLoadingFuncs: [],
+            isloadingFuncs: [],
             contextInit: [],
             eventRefiners: {},
             eventDefMemberAdders: [],
@@ -5387,7 +5387,7 @@ var FullCalendar = (function (exports) {
     function combineHooks(hooks0, hooks1) {
         return {
             reducers: hooks0.reducers.concat(hooks1.reducers),
-            isLoadingFuncs: hooks0.isLoadingFuncs.concat(hooks1.isLoadingFuncs),
+            isloadingFuncs: hooks0.isloadingFuncs.concat(hooks1.isloadingFuncs),
             contextInit: hooks0.contextInit.concat(hooks1.contextInit),
             eventRefiners: __assign(__assign({}, hooks0.eventRefiners), hooks1.eventRefiners),
             eventDefMemberAdders: hooks0.eventDefMemberAdders.concat(hooks1.eventDefMemberAdders),
@@ -6870,7 +6870,7 @@ var FullCalendar = (function (exports) {
         simpleRecurringEventsPlugin,
         changeHandlerPlugin,
         createPlugin({
-            isLoadingFuncs: [
+            isloadingFuncs: [
                 function (state) { return computeEventSourcesLoading(state.eventSources); },
             ],
             contentTypeHandlers: {
@@ -7161,7 +7161,7 @@ var FullCalendar = (function (exports) {
                 var reducer = _c[_b];
                 __assign(initialState, reducer(null, null, contextAndState));
             }
-            if (computeIsLoading(initialState, calendarContext)) {
+            if (computeisloading(initialState, calendarContext)) {
                 this.emitter.trigger('loading', true); // NOT DRY
             }
             this.state = initialState;
@@ -7209,7 +7209,7 @@ var FullCalendar = (function (exports) {
             }
             var eventSources = reduceEventSources(state.eventSources, action, dateProfile, calendarContext);
             var eventStore = reduceEventStore(state.eventStore, action, eventSources, dateProfile, calendarContext);
-            var isEventsLoading = computeEventSourcesLoading(eventSources); // BAD. also called in this func in computeIsLoading
+            var isEventsLoading = computeEventSourcesLoading(eventSources); // BAD. also called in this func in computeisloading
             var renderableEventStore = (isEventsLoading && !currentViewData.options.progressiveEventRendering) ?
                 (state.renderableEventStore || eventStore) : // try from previous state
                 eventStore;
@@ -7237,13 +7237,13 @@ var FullCalendar = (function (exports) {
                 var reducer = _c[_i];
                 __assign(newState, reducer(state, action, contextAndState)); // give the OLD state, for old value
             }
-            var wasLoading = computeIsLoading(state, calendarContext);
-            var isLoading = computeIsLoading(newState, calendarContext);
+            var wasLoading = computeisloading(state, calendarContext);
+            var isloading = computeisloading(newState, calendarContext);
             // TODO: use propSetHandlers in plugin system
-            if (!wasLoading && isLoading) {
+            if (!wasLoading && isloading) {
                 emitter.trigger('loading', true);
             }
-            else if (wasLoading && !isLoading) {
+            else if (wasLoading && !isloading) {
                 emitter.trigger('loading', false);
             }
             this.state = newState;
@@ -7487,10 +7487,10 @@ var FullCalendar = (function (exports) {
             }, calendarContext),
         };
     }
-    function computeIsLoading(state, context) {
-        for (var _i = 0, _a = context.pluginHooks.isLoadingFuncs; _i < _a.length; _i++) {
-            var isLoadingFunc = _a[_i];
-            if (isLoadingFunc(state)) {
+    function computeisloading(state, context) {
+        for (var _i = 0, _a = context.pluginHooks.isloadingFuncs; _i < _a.length; _i++) {
+            var isloadingFunc = _a[_i];
+            if (isloadingFunc(state)) {
                 return true;
             }
         }

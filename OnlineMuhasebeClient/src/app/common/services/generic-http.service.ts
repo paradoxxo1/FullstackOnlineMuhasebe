@@ -6,6 +6,8 @@ import { LoginResponseService } from './login-response.service';
 import { jwtDecode } from "jwt-decode";
 import { CryptoService } from './crypto.service';
 import { Router } from '@angular/router';
+import { Store } from '@ngrx/store';
+import { changeLoading } from '../states/loading/loading.actions';
 
 
 @Injectable({
@@ -16,6 +18,7 @@ export class GenericHttpService {
   apiUrl: string = "https://localhost:7010/api/";
   refreshTokenApiUrl: string = "Auth/GetTokenByRefreshToken";
   token: string = "";
+  isLoading: boolean = false;
   loginResponse: LoginReponseModel = new LoginReponseModel();
   constructor(
     private _http: HttpClient,
@@ -23,22 +26,47 @@ export class GenericHttpService {
     private _crypto: CryptoService,
     private _router: Router,
     private _loginResponse: LoginResponseService,
+    private store: Store<{ loading: boolean }>
 
-  ) { }
+  ) {
+    this.store.select("loading").subscribe(res => {
+      this.isLoading = res;
+    })
+  }
 
   get<T>(api: string, callBack: (res: T) => void, authorize: boolean = true, diffApi: boolean = false) {
     this.getToken();
+    if (!this.isLoading)
+      this.store.dispatch(changeLoading());
     this._http.get<T>(`${this.setApi(diffApi, api)}`, this.setOptions(authorize)).subscribe({
-      next: (res) => callBack(res),
-      error: (err: HttpErrorResponse) => this._error.errorHandler(err)
+      next: (res) => {
+        if (this.isLoading)
+          this.store.dispatch(changeLoading());
+        callBack(res)
+      },
+      error: (err: HttpErrorResponse) => {
+        if (this.isLoading)
+          this.store.dispatch(changeLoading());
+        this._error.errorHandler(err)
+      }
     });
   }
 
   post<T>(api: string, model: any, callBack: (res: T) => void, authorize: boolean = true, diffApi: boolean = false) {
     this.getToken();
+    if (!this.isLoading)
+      this.store.dispatch(changeLoading());
     this._http.post<T>(`${this.setApi(diffApi, api)}`, model, this.setOptions(authorize)).subscribe({
-      next: (res) => callBack(res),
-      error: (err: HttpErrorResponse) => this._error.errorHandler(err)
+      next: (res) => {
+        if (this.isLoading)
+          this.store.dispatch(changeLoading());
+        callBack(res)
+      },
+      error: (err: HttpErrorResponse) => {
+        if (this.isLoading)
+          this.store.dispatch(changeLoading());
+        this._error.errorHandler(err)
+      }
     });
   }
 
@@ -55,6 +83,10 @@ export class GenericHttpService {
   }
 
   getToken() {
+    let accessToken = localStorage.getItem("accessToken");
+    if(accessToken == undefined || accessToken == null){
+      return;
+    }
     this.loginResponse = this._loginResponse.getLoginResponmseModel();
     this.token = this.loginResponse.token.token;
     if (this.token != "" && this.token != undefined && this.token != null) {
@@ -73,7 +105,7 @@ export class GenericHttpService {
             companyId: this.loginResponse.company.companyId
           };
 
-          this._http.post<LoginReponseModel>(this.apiUrl + this.refreshTokenApiUrl , model).subscribe({
+          this._http.post<LoginReponseModel>(this.apiUrl + this.refreshTokenApiUrl, model).subscribe({
             next: (res) => {
               let cryptoValue = this._crypto.encrypto(JSON.stringify(res));
               localStorage.setItem("accessToken", cryptoValue);

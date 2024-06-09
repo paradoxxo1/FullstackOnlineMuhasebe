@@ -14,16 +14,16 @@ export class AuthService {
   constructor(
     private _http: GenericHttpService,
     private _router: Router,
-    private _crypto: CryptoService,    
+    private _crypto: CryptoService,
   ) { }
 
-  login(model: any){    
-    this._http.post<LoginReponseModel>(this.api,model,res=>{      
+  login(model: any) {
+    this._http.post<LoginReponseModel>(this.api, model, res => {
       let cryptoValue = this._crypto.encrypto(JSON.stringify(res));
-      localStorage.setItem("accessToken",cryptoValue);
+      localStorage.setItem("accessToken", cryptoValue);
       this._router.navigateByUrl("/");
     });
-  }  
+  }
 
   logout() {
     localStorage.removeItem("accessToken");
