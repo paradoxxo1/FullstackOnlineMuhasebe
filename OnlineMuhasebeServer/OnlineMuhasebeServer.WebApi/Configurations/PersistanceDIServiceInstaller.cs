@@ -6,6 +6,7 @@ using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleAndRoleRelat
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleAndUserRelationshipRepositories;
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.MainRoleRepositories;
 using OnlineMuhasebeServer.Domain.Repositories.AppDbContext.UserAndCompanyRelationshipRepositories;
+using OnlineMuhasebeServer.Domain.Repositories.CompanyDbContext.ReportRepositories;
 using OnlineMuhasebeServer.Domain.Repositories.CompanyDbContext.UCAFRepositories;
 using OnlineMuhasebeServer.Domain.UnitOfWorks;
 using OnlineMuhasebeServer.Persistance;
@@ -14,6 +15,7 @@ using OnlineMuhasebeServer.Persistance.Repositories.AppDbContext.MainRoleAndRole
 using OnlineMuhasebeServer.Persistance.Repositories.AppDbContext.MainRoleAndUserRelationshipRepositories;
 using OnlineMuhasebeServer.Persistance.Repositories.AppDbContext.MainRoleRepositories;
 using OnlineMuhasebeServer.Persistance.Repositories.AppDbContext.UserAndCompanyRelationshipRepositories;
+using OnlineMuhasebeServer.Persistance.Repositories.CompanyDbContext.ReportRepositories;
 using OnlineMuhasebeServer.Persistance.Repositories.CompanyDbContext.UCAFRepositories;
 using OnlineMuhasebeServer.Persistance.Services.AppServices;
 using OnlineMuhasebeServer.Persistance.Services.CompanyServices;
@@ -36,6 +38,7 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         #region Services
         #region CompanyDbContext
         services.AddScoped<IUCAFService, UCAFService>();
+        services.AddScoped<IReportService, ReportService>();
         //CompanyServiceDISpot
         #endregion
 
@@ -56,6 +59,8 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         #region CompanyDbContext
         services.AddScoped<IUCAFCommandRepository, UCAFCommandRepository>();
         services.AddScoped<IUCAFQueryRepository, UCAFQueryRepository>();
+        services.AddScoped<IReportCommandRepository, ReportCommandRepository>();
+        services.AddScoped<IReportQueryRepository, ReportQueryRepository>();
         //CompanyRepositoryDISpot
         #endregion
 

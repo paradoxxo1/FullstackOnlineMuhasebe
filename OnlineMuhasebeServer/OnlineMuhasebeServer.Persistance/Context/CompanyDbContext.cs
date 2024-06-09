@@ -67,7 +67,7 @@ public sealed class CompanyDbContext : DbContext
 
             if (entry.State == EntityState.Modified)
             {
-                entry.Property(p => p.UpdateDate)
+                entry.Property(p => p.UpdatedDate)
                     .CurrentValue = DateTime.Now;
             }
         }

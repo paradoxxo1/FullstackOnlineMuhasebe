@@ -17,10 +17,35 @@ namespace OnlineMuhasebeServer.Persistance.Migrations.CompanyDb
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.5")
+                .HasAnnotation("ProductVersion", "8.0.6")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("OnlineMuhasebeServer.Domain.CompanyEntities.Report", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("FileUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Status")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Reports", (string)null);
+                });
 
             modelBuilder.Entity("OnlineMuhasebeServer.Domain.CompanyEntities.UniformChartOfAccount", b =>
                 {
@@ -40,7 +65,7 @@ namespace OnlineMuhasebeServer.Persistance.Migrations.CompanyDb
                         .IsRequired()
                         .HasColumnType("nvarchar(1)");
 
-                    b.Property<DateTime?>("UpdateDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
