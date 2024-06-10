@@ -9,7 +9,7 @@ import { ReportService } from './services/report.service';
 @Component({
   selector: 'app-reports',
   standalone: true,
-  imports: [CommonModule, BlankComponent, SectionComponent],
+  imports: [CommonModule, BlankComponent,SectionComponent],
   templateUrl: './reports.component.html',
   styleUrls: ['./reports.component.css']
 })
@@ -24,7 +24,7 @@ export class ReportsComponent implements OnInit, OnDestroy {
       routerLink: "/reports",
       class: "active",
       name: "Raporlar"
-    },
+    }
   ]
 
   reports: ReportModel[] = [];
@@ -34,11 +34,11 @@ export class ReportsComponent implements OnInit, OnDestroy {
 
   constructor(
     private _report: ReportService
-  ) { }
+  ){}
+
   ngOnDestroy(): void {
     clearInterval(this.interval);
   }
-
 
   ngOnInit(): void {
     this.getAll();
@@ -49,18 +49,17 @@ export class ReportsComponent implements OnInit, OnDestroy {
       } else {
         clearInterval(this.interval);
       }
-    }, 1000);
+    }, 2000);
   }
 
-  getAll() {
-    this._report.getAll(res => this.reports = res);
+  getAll(){
+    this._report.getAll(res=> this.reports = res);
   }
 
-  changeSpanClassByStatus(status: boolean) {
-    if (status)
+  changeSpanClassByStatus(status:boolean){
+    if(status)
       return "text-success";
 
     return "text-danger";
   }
-
 }
