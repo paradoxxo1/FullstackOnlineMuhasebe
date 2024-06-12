@@ -1068,6 +1068,18 @@
             "rid": "win"
           }
         }
+      },
+      "TS.EntityFrameworkCore.Pagination/8.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.4"
+        },
+        "compile": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {}
+        }
       }
     }
   },
@@ -2913,12 +2925,27 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TS.EntityFrameworkCore.Pagination/8.0.1": {
+      "sha512": "SYklhdafvWqp4N3x04D+jhe6PTPPDwwLvzidW4vSlgbUJ5aimKbBP0WnP6J9QpMttcy/18AIfeKiLlMSFkld7w==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.pagination/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "1-09.jpg",
+        "README.md",
+        "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll",
+        "ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512",
+        "ts.entityframeworkcore.pagination.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.6",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
+      "TS.EntityFrameworkCore.Pagination >= 8.0.1"
     ]
   },
   "packageFolders": {
@@ -2972,6 +2999,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.6, )"
+          },
+          "TS.EntityFrameworkCore.Pagination": {
+            "target": "Package",
+            "version": "[8.0.1, )"
           }
         },
         "imports": [

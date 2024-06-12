@@ -85,3 +85,4 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.RabbirtMQ\obj\Debug\
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.RabbirtMQ\obj\Debug\net8.0\OnlineMuhasebeServer.RabbirtMQ.pdb
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.RabbirtMQ\obj\Debug\net8.0\OnlineMuhasebeServer.RabbirtMQ.genruntimeconfig.cache
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.RabbirtMQ\obj\Debug\net8.0\ref\OnlineMuhasebeServer.RabbirtMQ.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.RabbirtMQ\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll

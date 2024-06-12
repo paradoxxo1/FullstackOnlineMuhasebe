@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5YfDsbQrXKdcJoeIvV6zLmOK8gva25RzgFsrnx/3jsbkfQ8n5yCxGXPfb8CCf94vDn2Z1wRrwh0W60DhO7xaeA==",
+  "dgSpecHash": "5yuVdIPAIpNqWLDMu8zBwfZwMmpTj9iXyNzLcuxvuGgsR20lHhOsN+rFhqytZFt+7+95pmSpTe8QRKftXhNvAQ==",
   "success": true,
   "projectFilePath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.RabbirtMQ\\OnlineMuhasebeServer.RabbirtMQ.csproj",
   "expectedPackageFiles": [
@@ -143,6 +143,7 @@
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\ts.entityframeworkcore.pagination\\8.0.1\\ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
   ],
   "logs": []

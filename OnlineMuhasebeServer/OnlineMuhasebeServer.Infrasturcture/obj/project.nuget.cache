@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cKrswUKe+bw811Joau9PaSNxqIkOW1PWvqjflyHPIdzDv5ViB5Ag++5XwboVsyIuPPq3j0ltGZdz2oHMZHRp+A==",
+  "dgSpecHash": "rZDq1s02cpxzdbCntaQC/zDf4Yaxgl8PJwtKy0B/VzMzmrum7Vj/wRBJ9A9dH9zGDFTOSTXlCjpRAv4LfSaG0Q==",
   "success": true,
   "projectFilePath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj",
   "expectedPackageFiles": [
@@ -69,7 +69,8 @@
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\ts.entityframeworkcore.pagination\\8.0.1\\ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

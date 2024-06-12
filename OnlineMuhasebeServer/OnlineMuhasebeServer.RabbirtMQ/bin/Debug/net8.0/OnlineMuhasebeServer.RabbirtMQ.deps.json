@@ -1368,6 +1368,17 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "TS.EntityFrameworkCore.Pagination/8.0.1": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/EntityFrameworkCorePagination.Nuget.dll": {
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
+          }
+        }
+      },
       "XLParser/1.5.2": {
         "dependencies": {
           "Irony.NetCore": "1.0.11",
@@ -1393,7 +1404,8 @@
       "OnlineMuhasebeServer.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "runtime": {
           "OnlineMuhasebeServer.Domain.dll": {}
@@ -1405,7 +1417,8 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "OnlineMuhasebeServer.Application": "1.0.0",
-          "OnlineMuhasebeServer.Domain": "1.0.0"
+          "OnlineMuhasebeServer.Domain": "1.0.0",
+          "TS.EntityFrameworkCore.Pagination": "8.0.1"
         },
         "runtime": {
           "OnlineMuhasebeServer.Persistance.dll": {}
@@ -2391,6 +2404,13 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "TS.EntityFrameworkCore.Pagination/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SYklhdafvWqp4N3x04D+jhe6PTPPDwwLvzidW4vSlgbUJ5aimKbBP0WnP6J9QpMttcy/18AIfeKiLlMSFkld7w==",
+      "path": "ts.entityframeworkcore.pagination/8.0.1",
+      "hashPath": "ts.entityframeworkcore.pagination.8.0.1.nupkg.sha512"
     },
     "XLParser/1.5.2": {
       "type": "package",

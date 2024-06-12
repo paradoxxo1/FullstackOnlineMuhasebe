@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CB60ADEE-C03A-4CD3-B598-1B7D6921796D}|OnlineMuhasebeServer.RabbirtMQ\\OnlineMuhasebeServer.RabbirtMQ.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.rabbirtmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB60ADEE-C03A-4CD3-B598-1B7D6921796D}|OnlineMuhasebeServer.RabbirtMQ\\OnlineMuhasebeServer.RabbirtMQ.csproj|solutionrelative:onlinemuhasebeserver.rabbirtmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.infrasturcture\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|solutionrelative:onlinemuhasebeserver.infrasturcture\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.infrasturcture\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|solutionrelative:onlinemuhasebeserver.infrasturcture\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.infrasturcture\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B9AE2B-6A40-47D0-9A80-31F8C260C2F3}|OnlineMuhasebeServer.Infrasturcture\\OnlineMuhasebeServer.Infrasturcture.csproj|solutionrelative:onlinemuhasebeserver.infrasturcture\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C3FE94-06E9-4C03-A2B6-C0B2889D0200}|OnlineMuhasebeServer.WebApi\\OnlineMuhasebeServer.WebApi.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\configurations\\infrustructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C3FE94-06E9-4C03-A2B6-C0B2889D0200}|OnlineMuhasebeServer.WebApi\\OnlineMuhasebeServer.WebApi.csproj|solutionrelative:onlinemuhasebeserver.webapi\\configurations\\infrustructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\companyservices\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\companyservices\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\services\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\services\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\companyfeatures\\reportfeatures\\requestreportcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|solutionrelative:onlinemuhasebeserver.unittest\\features\\companyfeatures\\reportfeatures\\requestreportcommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,141 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDsAAAAAAQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:20:23.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.RabbirtMQ\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.RabbirtMQ\\Program.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.RabbirtMQ\\Program.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.RabbirtMQ\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAgwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:09:17.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtProvider.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:05:23.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtOptions.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtOptions.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Infrasturcture\\Authentication\\JwtOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:05:22.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InfrustructureDIServiceInstaller.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebApi\\Configurations\\InfrustructureDIServiceInstaller.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebApi\\Configurations\\InfrustructureDIServiceInstaller.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebApi\\Configurations\\InfrustructureDIServiceInstaller.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebApi\\Configurations\\InfrustructureDIServiceInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:04:20.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReportService.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\ReportService.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\ReportService.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\ReportService.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\ReportService.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAYwEQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:34:16.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportDto.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Dtos\\ReportDto.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Dtos\\ReportDto.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Dtos\\ReportDto.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Dtos\\ReportDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:26:14.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RabbitMQService.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Services\\RabbitMQService.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Infrasturcture\\Services\\RabbitMQService.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infrasturcture\\Services\\RabbitMQService.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Infrasturcture\\Services\\RabbitMQService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:20:41.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRabbitMQService.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\IRabbitMQService.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\IRabbitMQService.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\IRabbitMQService.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\IRabbitMQService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:19:00.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RequestReportCommandUnitTest.cs",
-              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\ReportFeatures\\RequestReportCommandUnitTest.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\ReportFeatures\\RequestReportCommandUnitTest.cs",
-              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\ReportFeatures\\RequestReportCommandUnitTest.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\ReportFeatures\\RequestReportCommandUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:37:19.451Z",
-              "EditorCaption": ""
             }
           ]
         }

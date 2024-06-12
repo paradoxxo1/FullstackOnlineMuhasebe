@@ -63,4 +63,6 @@ public class CompanyDbQueryRepository<T> : ICompanyDbQueryRepository<T>
             result = result.AsNoTracking();
         return result;
     }
+
+
 }

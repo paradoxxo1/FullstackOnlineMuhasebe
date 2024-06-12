@@ -70,4 +70,5 @@ public class AppQueryRepository<T> : IAppQueryRepository<T>
             result = result.AsNoTracking();
         return result;
     }
+
 }
