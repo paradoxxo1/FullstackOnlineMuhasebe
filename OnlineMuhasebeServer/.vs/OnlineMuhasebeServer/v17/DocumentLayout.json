@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\companyservices\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\companyservices\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C1B17C-9C8D-4BAF-B521-68CEAD0B3F81}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\appentities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\appentities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\services\\companyservices\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\services\\companyservices\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\logfeatures\\queries\\getlogsbytablename\\getlogsbytablenamequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\dtos\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AE4FF9-277B-4B6E-B066-3E19FA0B1BDB}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\dtos\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\ucaffeatures\\commands\\updateucaf\\updateucafcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\ucaffeatures\\commands\\updateucaf\\updateucafcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,15 +62,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\LogsController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\LogsController.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\LogsController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\LogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:30:46.093Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\AppEntities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:28:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\LogService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\LogService.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\LogService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\LogService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:17:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\CompanyServices\\ILogService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\ILogService.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\CompanyServices\\ILogService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:16:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetLogsByTableNameQueryHandler.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryHandler.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:13:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogDto.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Dtos\\LogDto.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Dtos\\LogDto.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Dtos\\LogDto.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Dtos\\LogDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:11:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetLogsByTableNameQueryResponse.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryResponse.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:09:37.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetLogsByTableNameQuery.cs",
+              "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQuery.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQuery.cs",
+              "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQuery.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\LogFeatures\\Queries\\GetLogsByTableName\\GetLogsByTableNameQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:07:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UCAFService.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
@@ -46,12 +183,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\UCAFService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAALwIAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:43:53.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T11:43:53.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "IUCAFService.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
@@ -59,12 +195,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IUCAFService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:43:33.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T11:43:33.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "CreateUCAFCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
@@ -72,12 +207,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:42:25.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T11:42:25.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "RemoveByIdUCAFCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
@@ -85,12 +219,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T11:42:26.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T11:42:26.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "UpdateUCAFCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\UpdateUCAF\\UpdateUCAFCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\UpdateUCAF\\UpdateUCAFCommandHandler.cs",
