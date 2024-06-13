@@ -6,15 +6,14 @@ using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Domain.AppEntities.Identity;
 using OnlineMuhasebeServer.Domain.CompanyEntities;
 
-namespace OnlineMuhasebeServer.Persistance.Mapping
+namespace OnlineMuhasebeServer.Persistance.Mapping;
+
+public class MappingProfile : Profile
 {
-    public class MappingProfile : Profile
+    public MappingProfile()
     {
-        public MappingProfile()
-        {
-            CreateMap<CreateCompanyCommand, Company>();
-            CreateMap<CreateUCAFCommand, UniformChartOfAccount>();
-            CreateMap<CreateRoleCommand, AppRole>();
-        }
+        CreateMap<CreateCompanyCommand, Company>();
+        CreateMap<CreateUCAFCommand, UniformChartOfAccount>();
+        CreateMap<CreateRoleCommand, AppRole>();
     }
 }

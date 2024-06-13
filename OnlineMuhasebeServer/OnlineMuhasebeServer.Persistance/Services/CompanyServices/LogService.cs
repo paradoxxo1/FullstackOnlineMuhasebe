@@ -45,7 +45,7 @@ public class LogService : ILogService
         _context = (CompanyDbContext)_contextService.CreateDbContextInstance(request.CompanyId);
         _logQueryRepository.SetDbContextInstance(_context);
 
-        PaginationResult<Log> result = await _logQueryRepository.GetAll().ToPagedListAsync(request.PageNumber, request.PageSize);
+        PaginationResult<Log> result = await _logQueryRepository.GetAll().OrderByDescending(p => p.CreatedDate).ToPagedListAsync(request.PageNumber, request.PageSize);
 
         int count = _logQueryRepository.GetAll().Count();
 
@@ -62,7 +62,8 @@ public class LogService : ILogService
                     CreatedDate = item.CreatedDate,
                     Data = item.Data,
                     TableName = item.TableName,
-                    UserId = user.Id,
+                    UserId = item.UserId,
+                    Progress = item.Progresss,
                     UserEmail = user.Email,
                     UserName = $"{user.FirstName} {user.LastName}",
                 };
