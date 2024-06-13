@@ -5,11 +5,11 @@ namespace OnlineMuhasebeServer.Application.Services.CompanyServices;
 
 public interface IUCAFService
 {
-    Task CreateUCAFAsync(CreateUCAFCommand request, CancellationToken cancellationToken);
+    Task<UniformChartOfAccount> CreateUCAFAsync(CreateUCAFCommand request, CancellationToken cancellationToken);
     Task<UniformChartOfAccount> GetByCodeAsync(string companyId, string code, CancellationToken cancellation);
     Task CreateMainUcafsToCompanyAsync(string companyId, CancellationToken cancellationToken);
     Task<IList<UniformChartOfAccount>> GetAllAsync(string companyId);
-    Task RemoveByIdUcafAsync(string id, string companyId);
+    Task<UniformChartOfAccount> RemoveByIdUcafAsync(string id, string companyId);
     Task<bool> CheckRemoveByIdUcafIsGroupAndAvailable(string id, string companyId);
     Task<UniformChartOfAccount> GetByIdAsync(string id, string companyId);
     Task UpdateAsync(UniformChartOfAccount account, string companyId);

@@ -20,6 +20,8 @@ using OnlineMuhasebeServer.Persistance.Repositories.CompanyDbContext.UCAFReposit
 using OnlineMuhasebeServer.Persistance.Services.AppServices;
 using OnlineMuhasebeServer.Persistance.Services.CompanyServices;
 using OnlineMuhasebeServer.Persistance.UnitOfWorks;
+using OnlineMuhasebeServer.Domain.Repositories.CompanyDbContext.LogRepositories;
+using OnlineMuhasebeServer.Persistance.Repositories.CompanyDbContext.LogRepositories;
 //UsingSpot
 
 namespace OnlineMuhasebeServer.WebApi.Configurations;
@@ -39,6 +41,7 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         #region CompanyDbContext
         services.AddScoped<IUCAFService, UCAFService>();
         services.AddScoped<IReportService, ReportService>();
+                services.AddScoped<ILogService, LogService>();
         //CompanyServiceDISpot
         #endregion
 
@@ -61,6 +64,8 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         services.AddScoped<IUCAFQueryRepository, UCAFQueryRepository>();
         services.AddScoped<IReportCommandRepository, ReportCommandRepository>();
         services.AddScoped<IReportQueryRepository, ReportQueryRepository>();
+                services.AddScoped<ILogCommandRepository, LogCommandRepository>();
+                services.AddScoped<ILogQueryRepository, LogQueryRepository>();
         //CompanyRepositoryDISpot
         #endregion
 

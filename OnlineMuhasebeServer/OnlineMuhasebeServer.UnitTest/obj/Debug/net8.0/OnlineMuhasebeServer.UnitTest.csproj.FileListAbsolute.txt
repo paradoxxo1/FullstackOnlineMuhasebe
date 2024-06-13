@@ -210,3 +210,4 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.UnitTest\obj\Debug\n
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.UnitTest\obj\Debug\net8.0\OnlineMuhasebeServer.UnitTest.pdb
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.UnitTest\obj\Debug\net8.0\OnlineMuhasebeServer.UnitTest.genruntimeconfig.cache
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.UnitTest\obj\Debug\net8.0\ref\OnlineMuhasebeServer.UnitTest.dll
+C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.UnitTest\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll

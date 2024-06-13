@@ -1192,6 +1192,7 @@
         "dependencies": {
           "FluentValidation": "11.9.1",
           "MediatR": "12.2.0",
+          "Newtonsoft.Json": "13.0.3",
           "OnlineMuhasebeServer.Domain": "1.0.0"
         },
         "runtime": {
@@ -1210,6 +1211,7 @@
       },
       "OnlineMuhasebeServer.Infrasturcture/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Newtonsoft.Json": "13.0.3",
           "OnlineMuhasebeServer.Application": "1.0.0",
           "RabbitMQ.Client": "6.8.1"
