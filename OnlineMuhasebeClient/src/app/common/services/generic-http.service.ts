@@ -87,7 +87,7 @@ export class GenericHttpService {
     if (accessToken == undefined || accessToken == null) {
       return;
     }
-    this.loginResponse = this._loginResponse.getLoginResponmseModel();
+    this.loginResponse = this._loginResponse.getLoginResponseModel();
     this.token = this.loginResponse.token.token;
     if (this.token != "" && this.token != undefined && this.token != null) {
       var decoded = jwtDecode(this.token);

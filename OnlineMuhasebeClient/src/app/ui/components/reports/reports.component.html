@@ -16,7 +16,7 @@
 
             <table class="table">
                 <thead>
-                    <tr>
+                    <tr style="background-color: #f1f1f1;">
                         <th>#</th>
                         <th>Rapor Adı</th>
                         <th>İstek Tarihi</th>
@@ -45,12 +45,13 @@
                     </tr>
                 </tbody>
             </table>
-            <nav aria-label="Page navigation example">
+            <nav aria-label="Page navigation example" *ngIf="result.totalPages>1">
                 <ul class="pagination justify-content-end">
-                    <li class="page-item" *ngIf="!result.isFirstPage"> 
-                        <a class="page-link" (click)="getAll(pageNumber-1)" >Önceki</a>
+                    <li class="page-item" *ngIf="!result.isFirstPage">
+                        <a class="page-link" (click)="getAll(pageNumber-1)">Önceki</a>
                     </li>
-                    <li class="page-item" [ngClass]="result.pageNumbers == n ? 'active' : ''" *ngFor="let n of pageNumbers">
+                    <li class="page-item" [ngClass]="result.pageNumbers == n ? 'active' : ''"
+                        *ngFor="let n of pageNumbers">
                         <a class="page-link" (click)="getAll(n)">{{n}}</a>
                     </li>
                     <li class="page-item">

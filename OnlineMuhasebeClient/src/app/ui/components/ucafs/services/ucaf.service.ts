@@ -19,7 +19,7 @@ export class UcafService {
     private _http: GenericHttpService,
     private _loginResponse: LoginResponseService
   ) {
-    this.loginResponse = this._loginResponse.getLoginResponmseModel();
+    this.loginResponse = this._loginResponse.getLoginResponseModel();
   }
 
   getAll(callBack: (res: ResponseModel<UcafModel[]>) => void) {

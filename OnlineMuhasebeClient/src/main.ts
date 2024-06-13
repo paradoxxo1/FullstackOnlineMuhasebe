@@ -16,7 +16,7 @@ bootstrapApplication(AppComponent, {
     importProvidersFrom(
       BrowserModule,
       SweetAlert2Module.forRoot(),
-      StoreModule.forRoot({loading : loadingReducer}),
+      StoreModule.forRoot({ loading: loadingReducer }),
       RouterModule.forRoot([
         {
           path: "",
@@ -32,9 +32,14 @@ bootstrapApplication(AppComponent, {
               loadComponent: () => import("./app/ui/components/ucafs/ucafs.component").then(c => c.UcafsComponent)
             },
             {
-              path:"reports",
-              loadComponent: () => import("./app/ui/components/reports/reports.component").then(c=> ReportsComponent )
+              path: "reports",
+              loadComponent: () => import("./app/ui/components/reports/reports.component").then(c => ReportsComponent)
+            },
+            {
+              path: "logs",
+              loadComponent: () => import("./app/ui/components/logs/logs.component").then(c => c.LogsComponent)
             }
+
           ]
         },
         {

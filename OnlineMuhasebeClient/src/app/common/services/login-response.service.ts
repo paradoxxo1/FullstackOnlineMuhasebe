@@ -12,7 +12,7 @@ export class LoginResponseService {
     private _crypto: CryptoService,
   ) { }
 
-  getLoginResponmseModel() {
+  getLoginResponseModel() {
     let token = localStorage.getItem("accessToken")?.toString();
     if (token != undefined) {
       let loginResponseString = this._crypto.decrypto(token);

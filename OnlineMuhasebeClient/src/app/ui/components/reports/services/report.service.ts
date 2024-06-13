@@ -20,7 +20,7 @@ export class ReportService {
 
   getAll(pageNumber: number =1, pageSize: number = 5, callBack: (res: PaginationResultModel<ReportModel[]>) => void) {
     let model: RequestModel = new RequestModel();
-    model.companyId = this._loginResponse.getLoginResponmseModel().company.companyId;
+    model.companyId = this._loginResponse.getLoginResponseModel().company.companyId;
     model.pageNumber = pageNumber;
     model.pageSize = pageSize;
     this._http.post<ResponseModel<PaginationResultModel<ReportModel[]>>>("Reports/GetAll", model, res => {
@@ -29,7 +29,7 @@ export class ReportService {
   }
 
   request(model: ReportRequestModel, callBack: (res:MessageResponseModel) => void) {
-    model.companyId = this._loginResponse.getLoginResponmseModel().company.companyId;
+    model.companyId = this._loginResponse.getLoginResponseModel().company.companyId;
     this._http.post<MessageResponseModel>("Reports/RequestReport",model, res=>{
       callBack(res);
     })
