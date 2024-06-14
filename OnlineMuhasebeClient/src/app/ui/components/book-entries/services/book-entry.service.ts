@@ -6,6 +6,7 @@ import { PaginationResultModel } from 'src/app/common/models/pagination-result.m
 import { BookEntryModel } from '../models/book-entry.model';
 import { CreateBookEntryModel } from '../models/create-book-entry.model';
 import { MessageResponseModel } from 'src/app/common/models/message-response-model';
+import { RemoveByIdModel } from 'src/app/common/models/remove-by-id.model';
 
 
 @Injectable({
@@ -28,8 +29,16 @@ export class BookEntryService {
 
   create(model: CreateBookEntryModel, callBack: (res:MessageResponseModel)=> void){
     model.companyId = this._loginResponse.getLoginResponseModel().company.companyId;
-    this._http.post<MessageResponseModel>("BookEntries/CreateBookEntry",model,res=>{
+    this._http.post<MessageResponseModel>("BookEntries/Create",model,res=>{
       callBack(res);
     })
   }
+
+  removeById(model: RemoveByIdModel, callBack: (res:MessageResponseModel)=> void){
+    model.companyId = this._loginResponse.getLoginResponseModel().company.companyId;
+    this._http.post<MessageResponseModel>("BookEntries/RemoveById",model,res=>{
+      callBack(res);
+    })
+  }
+
 }

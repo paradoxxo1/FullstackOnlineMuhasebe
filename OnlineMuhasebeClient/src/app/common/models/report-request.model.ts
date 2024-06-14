@@ -1,5 +1,4 @@
 export class ReportRequestModel{
-    name: string ="";
-    companyId: string ="";
-
+    name: string = "";
+    companyId: string = "";
 }

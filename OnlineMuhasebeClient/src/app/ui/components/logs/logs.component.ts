@@ -6,7 +6,6 @@ import { LogModel } from './models/log.model';
 import { PaginationResultModel } from 'src/app/common/models/pagination-result.model';
 import { LogService } from './services/log.service';
 import { LogRequestModel } from './models/log-request.model';
-import { UcafModel } from '../ucafs/models/ucaf.model';
 
 @Component({
   selector: 'app-logs',

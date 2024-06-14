@@ -1,3 +1,3 @@
-export class MessageResponseModel {
+export class MessageResponseModel{
     message: string = "";
 }
