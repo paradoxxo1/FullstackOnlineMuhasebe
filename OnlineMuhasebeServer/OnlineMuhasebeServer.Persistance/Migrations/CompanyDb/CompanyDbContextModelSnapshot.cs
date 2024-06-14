@@ -61,7 +61,7 @@ namespace OnlineMuhasebeServer.Persistance.Migrations.CompanyDb
                     b.Property<string>("Data")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Progresss")
+                    b.Property<string>("Progress")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TableName")

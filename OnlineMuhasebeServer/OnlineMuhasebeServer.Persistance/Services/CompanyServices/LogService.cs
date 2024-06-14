@@ -64,8 +64,8 @@ public class LogService : ILogService
                     TableName = item.TableName,
                     UserId = item.UserId,
                     Progress = item.Progress,
-                    UserEmail = user.Email,
-                    UserName = $"{user.FirstName} {user.LastName}",
+                    UserEmail = user?.Email,
+                    UserName = $"{user?.FirstName} {user?.LastName}",
                 };
                 logDtos.Add(logDto);
             }
