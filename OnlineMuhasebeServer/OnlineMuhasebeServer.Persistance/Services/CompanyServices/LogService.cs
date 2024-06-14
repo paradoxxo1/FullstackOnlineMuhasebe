@@ -63,7 +63,7 @@ public class LogService : ILogService
                     Data = item.Data,
                     TableName = item.TableName,
                     UserId = item.UserId,
-                    Progress = item.Progresss,
+                    Progress = item.Progress,
                     UserEmail = user.Email,
                     UserName = $"{user.FirstName} {user.LastName}",
                 };

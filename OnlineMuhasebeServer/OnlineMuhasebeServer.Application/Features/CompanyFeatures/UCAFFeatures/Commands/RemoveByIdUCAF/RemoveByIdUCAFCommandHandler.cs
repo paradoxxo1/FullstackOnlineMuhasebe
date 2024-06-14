@@ -33,7 +33,7 @@ public sealed class RemoveByIdUCAFCommandHandler : ICommandHandler<RemoveByIdUCA
         {
             Id = Guid.NewGuid().ToString(),
             TableName = nameof(UniformChartOfAccount),
-            Progresss = "Delete",
+            Progress = "Delete",
             Data = JsonConvert.SerializeObject(ucaf),
             UserId = userId
         };

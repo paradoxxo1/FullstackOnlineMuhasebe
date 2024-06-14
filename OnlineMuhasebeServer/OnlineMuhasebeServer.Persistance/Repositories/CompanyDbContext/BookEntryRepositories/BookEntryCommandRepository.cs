@@ -1,6 +1,6 @@
 using OnlineMuhasebeServer.Domain.CompanyEntities;
-using OnlineMuhasebeServer.Persistance.Repositories.GenericRepositories.CompanyDbContext;
 using OnlineMuhasebeServer.Domain.Repositories.CompanyDbContext.BookEntryRepositories;
+using OnlineMuhasebeServer.Persistance.Repositories.GenericRepositories.CompanyDbContext;
 
 namespace OnlineMuhasebeServer.Persistance.Repositories.CompanyDbContext.BookEntryRepositories;
 

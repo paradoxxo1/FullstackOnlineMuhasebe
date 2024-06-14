@@ -33,7 +33,7 @@ public sealed class CreateUCAFCommandHandler : ICommandHandler<CreateUCAFCommand
         {
             Id = Guid.NewGuid().ToString(),
             TableName = nameof(UniformChartOfAccount),
-            Progresss = "Create",
+            Progress = "Create",
             UserId = userId,
             Data = JsonConvert.SerializeObject(createUcaf)
         };

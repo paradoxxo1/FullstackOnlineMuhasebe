@@ -14,6 +14,5 @@ public sealed class CreateBookEntryCommandValidator : AbstractValidator<CreateBo
         RuleFor(p => p.Description).NotNull().WithMessage("Açıklama bilgisi boş olamaz!");
         RuleFor(p => p.Type).NotEmpty().WithMessage("Tip bilgisi boş olamaz!");
         RuleFor(p => p.Type).NotNull().WithMessage("Tip bilgisi boş olamaz!");
-
     }
 }

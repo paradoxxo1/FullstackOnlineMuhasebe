@@ -37,7 +37,7 @@ public sealed record UpdateUCAFCommandHandler : ICommandHandler<UpdateUCAFComman
         Log oldLog = new()
         {
             Id = Guid.NewGuid().ToString(),
-            Progresss = "UpdateOld",
+            Progress = "UpdateOld",
             TableName = nameof(UniformChartOfAccount),
             Data = JsonConvert.SerializeObject(ucaf),
             UserId = userId
@@ -52,7 +52,7 @@ public sealed record UpdateUCAFCommandHandler : ICommandHandler<UpdateUCAFComman
         Log newLog = new()
         {
             Id = Guid.NewGuid().ToString(),
-            Progresss = "UpdateNew",
+            Progress = "UpdateNew",
             TableName = nameof(UniformChartOfAccount),
             Data = JsonConvert.SerializeObject(ucaf),
             UserId = userId,

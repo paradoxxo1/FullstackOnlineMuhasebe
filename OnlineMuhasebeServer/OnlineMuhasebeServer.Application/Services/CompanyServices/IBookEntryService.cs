@@ -11,4 +11,3 @@ public interface IBookEntryService
     Task<PaginationResult<BookEntry>> GetAllAsync(string companyId, int pageNumber, int pageSize, int year);
     int GetCount(string companyId);
 }
-

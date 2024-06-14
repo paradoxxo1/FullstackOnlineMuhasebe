@@ -33,14 +33,13 @@ public sealed class CreateBookEntryCommandHandler : ICommandHandler<CreateBookEn
         };
 
         await _bookEntryService.AddAsync(request.CompanyId, bookEntry, cancellationToken);
-
         string userId = _apiService.GetUserIdByToken();
 
         Log log = new()
         {
             Id = Guid.NewGuid().ToString(),
             Data = JsonConvert.SerializeObject(bookEntry),
-            Progresss = "Create",
+            Progress = "Create",
             TableName = nameof(BookEntry),
             UserId = userId
         };

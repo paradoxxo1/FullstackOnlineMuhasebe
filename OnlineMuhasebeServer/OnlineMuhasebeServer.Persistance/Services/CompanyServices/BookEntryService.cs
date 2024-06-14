@@ -29,22 +29,20 @@ public class BookEntryService : IBookEntryService
     {
         _context = (CompanyDbContext)_contextService.CreateDbContextInstance(companyId);
         _commandRepository.SetDbContextInstance(_context);
+        _unitOfWork.SetDbContextInstance(_context);
 
         await _commandRepository.AddAsync(bookEntry, cancellationToken);
         await _unitOfWork.SaveChangesAsync(cancellationToken);
-
     }
-
 
     public async Task<string> GetNewBookEntryNumber(string companyId)
     {
         _context = (CompanyDbContext)_contextService.CreateDbContextInstance(companyId);
         _queryRepository.SetDbContextInstance(_context);
 
-
         BookEntry lastBookEntry = await _queryRepository.GetAll().OrderByDescending(p => p.CreatedDate).FirstOrDefaultAsync();
 
-        if (lastBookEntry == null)
+        if (lastBookEntry is null)
             return "0000000000000001";
 
         long lastBookEntryNumber = Convert.ToInt64(lastBookEntry.BookEntryNumber);
@@ -64,17 +62,16 @@ public class BookEntryService : IBookEntryService
         _context = (CompanyDbContext)_contextService.CreateDbContextInstance(companyId);
         _queryRepository.SetDbContextInstance(_context);
 
-        string startingDateString = "01.01" + year;
-        string endDateString = "31.12" + year;
-
-        return await _queryRepository.GetWhere(p => p.Date >= Convert.ToDateTime(startingDateString) && p.Date <= Convert.ToDateTime(endDateString)).OrderByDescending(p => p.Date).ToPagedListAsync(pageNumber, pageSize);
+        string startingDateString = "01.01." + year;
+        string endDateString = "31.12." + year;
+        return await _queryRepository.GetWhere(p => p.Date >= Convert.ToDateTime(startingDateString) && p.Date <= Convert.ToDateTime(endDateString)).OrderByDescending(p => p.CreatedDate).ToPagedListAsync(pageNumber,
+            pageSize);
     }
 
     public int GetCount(string companyId)
     {
         _context = (CompanyDbContext)_contextService.CreateDbContextInstance(companyId);
         _queryRepository.SetDbContextInstance(_context);
-
         return _queryRepository.GetAll().Count();
     }
 }

@@ -156,6 +156,5 @@ C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.pdb
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.genruntimeconfig.cache
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\ref\OnlineMuhasebeServer.WebApi.dll
-C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net8.0\EntityFrameworkCorePagination.Nuget.dll
