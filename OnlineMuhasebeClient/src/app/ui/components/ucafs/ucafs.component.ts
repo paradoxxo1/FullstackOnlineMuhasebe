@@ -109,7 +109,7 @@ export class UcafsComponent implements OnInit {
       this._ucaf.update(this.updateModel, (res) => {
         this.cancel();
         this.getAll();
-        this._toastr.toast(ToastrType.Info, res.message, "Başarılı!")
+        this._toastr.toast(ToastrType.Warning, res.message, "Başarılı!")
       });
     }
   }

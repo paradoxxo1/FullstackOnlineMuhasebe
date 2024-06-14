@@ -50,6 +50,7 @@ export class BookEntriesComponent implements OnInit {
   pageNumbers: number[] = [];
   dateInput: string = "";
   typeSelect: string = "Muavin";
+  updateModel: BookEntryModel = new BookEntryModel();
   result: PaginationResultModel<BookEntryModel[]> = new PaginationResultModel<BookEntryModel[]>();
 
   constructor(
@@ -106,12 +107,39 @@ export class BookEntriesComponent implements OnInit {
     }
   }
 
+  getUpdateModel(model:BookEntryModel){
+    this.updateModel = {...model};
+    this.updateModel.date = this._date.transform(model.date,'yyyy-MM-dd');
+  }
+
+  update(form: NgForm){
+    if(form.valid){
+      let year = this.updateModel.date.split("-")[0];
+      if(this._loginResponse.getLoginResponseModel().year != +year){
+        this._toastr.toast(ToastrType.Error,"Sadece seçili yıla işlem yapabilirsiniz!");
+        return;
+      }
+
+      this._bookEntry.update(this.updateModel,(res)=>{
+        this._toastr.toast(ToastrType.Warning,res.message,"");
+
+        this.getAll();
+        let element = document.getElementById("updateModelCloseBtn");
+        element.click();
+      });
+    }
+  }
+
+  
+
+
   changeBlankTrClass(model: BookEntryModel){
     if(model.debit + model.credit == 0)
       return "text-danger"
     
     return ""
   }
+
 
   removeById(bookEntry:BookEntryModel){
     this._swal.callSwal("Sil?", "Yevmiye Fişi Sil?", `${bookEntry.bookEntryNumber} numaralı Yevmiye Fişini silmek istiyor musunuz?`, ()=>{
