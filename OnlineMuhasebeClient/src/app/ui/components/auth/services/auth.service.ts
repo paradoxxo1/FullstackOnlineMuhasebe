@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { CryptoService } from 'src/app/common/services/crypto.service';
 import { GenericHttpService } from 'src/app/common/services/generic-http.service';
 import { LoginReponseModel } from '../models/login-response.model';
+import { ResponseModel } from 'src/app/common/models/response.model';
 
 @Injectable({
   providedIn: 'root'
@@ -28,6 +29,11 @@ export class AuthService {
   logout() {
     localStorage.removeItem("accessToken");
     this._router.navigateByUrl("/login")
+  }
+
+  changeYear(model: LoginReponseModel){
+    let cryptoValue = this._crypto.encrypto(JSON.stringify(model));
+    localStorage.setItem("accessToken", cryptoValue);
   }
 
 }
