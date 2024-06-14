@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\queries\\getallbookentry\\getallbookentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\queries\\getallbookentry\\getallbookentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\commands\\createbookentry\\createbookentrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\commands\\createbookentry\\createbookentrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\companyservices\\bookentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE669753-337C-4DA8-A5F1-1852B107F9CB}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\companyservices\\bookentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\queries\\getallbookentry\\getallbookentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B5A3E7-F3EC-49D8-8263-1BD553B72BE2}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\bookentryfeatures\\queries\\getallbookentry\\getallbookentryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2483FC-8830-4C4A-90C5-87B1EEE39FF8}|OnlineMuhasebeServer.UnitTest\\OnlineMuhasebeServer.UnitTest.csproj|c:\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.unittest\\features\\companyfeatures\\bookentryfeatures\\createbookentrycommandunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,8 +122,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.UnitTest\\Features\\CompanyFeatures\\BookEntryFeatures\\CreateBookEntryCommandUnitTest.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAuwCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:58:00.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:58:00.859Z"
             },
             {
               "$type": "Document",
@@ -135,12 +134,11 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Repositories\\CompanyDbContext\\BookEntryRepositories\\BookEntryQueryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:55:29.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:55:29.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookEntryService.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\BookEntryService.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\BookEntryService.cs",
@@ -148,31 +146,30 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\BookEntryService.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAxwEwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:43:20.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T08:43:20.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GetAllBookEntryQueryHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQueryHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQueryHandler.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQueryHandler.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQueryHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T08:36:18.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateBookEntryCommandHandler.cs",
               "DocumentMoniker": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandHandler.cs",
               "ToolTip": "C:\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandHandler.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAKAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwCAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T12:09:38.448Z",
               "EditorCaption": ""
@@ -187,8 +184,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Configurations\\BookEntryConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:54:56.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:54:56.945Z"
             },
             {
               "$type": "Document",
@@ -200,8 +196,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Repositories\\CompanyDbContext\\BookEntryRepositories\\BookEntryCommandRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:55:13.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:55:13.582Z"
             },
             {
               "$type": "Document",
@@ -213,8 +208,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\BookEntriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:40:35.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T20:40:35.035Z"
             },
             {
               "$type": "Document",
@@ -226,8 +220,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\CompanyDbContext\\BookEntryRepositories\\IBookEntryCommandRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:54:30.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:54:30.084Z"
             },
             {
               "$type": "Document",
@@ -239,8 +232,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\CompanyDbContext\\BookEntryRepositories\\IBookEntryQueryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:56:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:56:35.742Z"
             },
             {
               "$type": "Document",
@@ -252,8 +244,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Domain\\CompanyEntities\\BookEntry.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:54:10.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:54:10.29Z"
             },
             {
               "$type": "Document",
@@ -265,8 +256,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\CompanyServices\\LogService.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAhwEEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:52:14.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:52:14.011Z"
             },
             {
               "$type": "Document",
@@ -278,8 +268,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\UpdateUCAF\\UpdateUCAFCommandHandler.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAhwDYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:51:54.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:51:54.753Z"
             },
             {
               "$type": "Document",
@@ -291,8 +280,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\CreateUCAF\\CreateUCAFCommandHandler.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAawCMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:51:49.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:51:49.328Z"
             },
             {
               "$type": "Document",
@@ -304,8 +292,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Domain\\CompanyEntities\\Log.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:51:25.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:51:25.479Z"
             },
             {
               "$type": "Document",
@@ -317,8 +304,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:50:36.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:50:36.547Z"
             },
             {
               "$type": "Document",
@@ -330,8 +316,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\UCAFFeatures\\Commands\\RemoveByIdUCAF\\RemoveByIdUCAFCommandHandler.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAhwCMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:52:03.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:52:03.962Z"
             },
             {
               "$type": "Document",
@@ -343,8 +328,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\CompanyServices\\IBookEntryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:42:55.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T08:42:55.641Z"
             },
             {
               "$type": "Document",
@@ -356,8 +340,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommandResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:51:13.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:51:13.175Z"
             },
             {
               "$type": "Document",
@@ -369,8 +352,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Commands\\CreateBookEntry\\CreateBookEntryCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:50:57.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:50:57.227Z"
             },
             {
               "$type": "Document",
@@ -382,8 +364,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQueryResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:49:14.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:49:14.269Z"
             },
             {
               "$type": "Document",
@@ -395,8 +376,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\IApiService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:37:47.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T08:37:47.933Z"
             },
             {
               "$type": "Document",
@@ -408,8 +388,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Infrasturcture\\Services\\ApiService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:38:15.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T08:38:15.973Z"
             },
             {
               "$type": "Document",
@@ -421,8 +400,7 @@
               "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\BookEntryFeatures\\Queries\\GetAllBookEntry\\GetAllBookEntryQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:22:14.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:22:14.167Z"
             }
           ]
         }
